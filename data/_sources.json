@@ -1,0 +1,45 @@
+{
+ "cpv": {
+  "temporalCoverage": "2026-01/2026-07",
+  "dateModified": "2026-09-07T07:00:07",
+  "license": "https://creativecommons.org/licenses/by/4.0/"
+ },
+ "buyers": {
+  "period": {
+   "code": "2026-01_2026-07",
+   "label": "janeiro a julho de 2026"
+  },
+  "source": "IMPIC / Portal BASE, via dados.gov.pt",
+  "sourceUrl": "https://dados.gov.pt",
+  "extractedAt": "2026-09-07"
+ },
+ "direct": {
+  "period": {
+   "code": "2026-01_2026-07",
+   "label": "janeiro a julho de 2026"
+  },
+  "source": "IMPIC / Portal BASE, via dados.gov.pt",
+  "sourceUrl": "https://dados.gov.pt",
+  "extractedAt": "2026-09-07"
+ },
+ "europe": {
+  "period": {
+   "from": "20260101",
+   "to": "20260731",
+   "label": "January to July 2026"
+  },
+  "source": "TED, the EU Official Journal, contract award notices (eForms BT-759)",
+  "sourceUrl": "https://ted.europa.eu",
+  "harvestedAt": "2026-09-08"
+ },
+ "uk": {
+  "period": {
+   "from": "2026-01-01",
+   "to": "2026-07-31",
+   "label": "January to July 2026"
+  },
+  "source": "Find a Tender, the UK notice service, in OCDS (bids.statistics)",
+  "sourceUrl": "https://www.find-tender.service.gov.uk",
+  "harvestedAt": "2026-09-08"
+ }
+}

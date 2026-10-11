@@ -1,13 +1,35 @@
 {
   "title": "Public procurement open data: Portugal and Europe, 2026",
   "upload_type": "dataset",
-  "description": "<p>Measured public procurement data for January to July 2026, published by TRINTA (trinta.ai), a public tender intelligence company based in Lisbon.</p><ul><li>Portugal: contracts, value and competition for every CPV code used (153,477 contracts reported to the Portal BASE, IMPIC); public buyers by contracted value; each buyer's share of direct awards (ajuste direto).</li><li>Europe: the share of lots drawing a single bid in the EU Official Journal (TED), by country and by CPV division (571,148 lots, eForms BT-759).</li><li>United Kingdom: the same measure on the Find a Tender Service, by CPV division.</li></ul><p>Methodology: https://trinta.ai/barometro and https://trinta.ai/single-bid-europe</p>",
-  "creators": [{ "name": "TRINTA" }],
+  "description": "<p>Measured public procurement data for 2026 (Portugal January to August, edition 2; Europe and the UK January to July), published by TRINTA (trinta.ai), a public tender intelligence company based in Lisbon.</p><ul><li>Portugal: contracts, value and competition for every CPV code used (171,806 contracts reported to the Portal BASE, IMPIC, January to August, each contract counted once); public buyers by contracted value; each buyer's share of direct awards (ajuste direto).</li><li>Europe: the share of lots drawing a single bid in the EU Official Journal (TED), by country and by CPV division (571,148 lots, eForms BT-759).</li><li>United Kingdom: the same measure on the Find a Tender Service, by CPV division.</li></ul><p>Methodology: https://trinta.ai/barometro and https://trinta.ai/single-bid-europe</p>",
+  "creators": [
+    {
+      "name": "TRINTA"
+    }
+  ],
   "license": "cc-by-4.0",
   "access_right": "open",
-  "keywords": ["public procurement", "contratação pública", "public tenders", "single bid", "competition", "CPV", "Portugal", "TED", "European Union"],
+  "keywords": [
+    "public procurement",
+    "contratação pública",
+    "public tenders",
+    "single bid",
+    "competition",
+    "CPV",
+    "Portugal",
+    "TED",
+    "European Union"
+  ],
   "related_identifiers": [
-    { "identifier": "https://trinta.ai/barometro", "relation": "isSupplementTo", "scheme": "url" },
-    { "identifier": "https://trinta.ai/single-bid-europe", "relation": "isSupplementTo", "scheme": "url" }
+    {
+      "identifier": "https://trinta.ai/barometro",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://trinta.ai/single-bid-europe",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
   ]
 }

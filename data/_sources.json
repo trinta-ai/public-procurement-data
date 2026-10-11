@@ -1,26 +1,26 @@
 {
  "cpv": {
-  "temporalCoverage": "2026-01/2026-07",
-  "dateModified": "2026-09-07T07:00:07",
+  "temporalCoverage": "2026-01/2026-08",
+  "dateModified": "2026-10-05T09:47:44",
   "license": "https://creativecommons.org/licenses/by/4.0/"
  },
  "buyers": {
   "period": {
-   "code": "2026-01_2026-07",
-   "label": "janeiro a julho de 2026"
+   "code": "2026-01_2026-08",
+   "label": "janeiro a agosto de 2026"
   },
   "source": "IMPIC / Portal BASE, via dados.gov.pt",
   "sourceUrl": "https://dados.gov.pt",
-  "extractedAt": "2026-09-07"
+  "extractedAt": "2026-10-05"
  },
  "direct": {
   "period": {
-   "code": "2026-01_2026-07",
-   "label": "janeiro a julho de 2026"
+   "code": "2026-01_2026-08",
+   "label": "janeiro a agosto de 2026"
   },
   "source": "IMPIC / Portal BASE, via dados.gov.pt",
   "sourceUrl": "https://dados.gov.pt",
-  "extractedAt": "2026-09-07"
+  "extractedAt": "2026-10-05"
  },
  "europe": {
   "period": {

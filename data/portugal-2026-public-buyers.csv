@@ -1,884 +1,920 @@
 nif,name,valueEur,contracts
-503933813,Infraestruturas de Portugal,785298494,440
-508481287,"Unidade Local de Saúde de Santa Maria, EPE",482135828,3560
-517392259,"Unidade Local de Saúde de Santo António, EPE",380098245,1079
-510103448,"Unidade Local de Saúde de Coimbra, EPE",361928528,3297
-508080142,"Unidade Local de Saúde de São José, EPE",291112341,2538
-506362299,"IPO Porto FG, EPE",253694038,7440
-509821197,"Unidade Local de Saúde de São João, EPE",226091782,1186
-507618319,"Unidade Local de Saúde de Lisboa Ocidental, EPE",206345667,1565
-512012032,"ELECTRICIDADE DOS AÇORES, S.A.",191229028,59
-515545180,Unidade Local de Saúde de Braga EPE,173021677,1507
-510745997,"Unidade Local de Saúde do Algarve, EPE",164368000,2388
-511010435,"EEM - Empresa de Electricidade da Madeira, SA",155857614,50
-505187531,Município de Cascais,155376023,314
-600085171,Direção-Geral de Reinserção e Serviços Prisionais,135965267,257
-508142156,"Unidade Local de Saúde de Gaia/Espinho, EPE",129014893,3491
-503035416,"Unidade Local de Saude Amadora/Sintra, E.P.E.",120930535,1403
-506361470,"Unidade Local de Saúde de Almada-Seixal, EPE",115552239,3795
-508080827,"Unidade Local de Saúde do Alto Ave, EPE",114516681,1256
-600012662,MARINHA - Messe de Cascais,113655248,956
-500498601,CP-Comboios de Portugal,107128647,69
-600010686,Força Aérea,106639361,1120
-511228848,"Serviço de Saúde da Região Autónoma da Madeira,EPE",106543037,1413
-506361616,"Instituto Português de Oncologia de Lisboa FG, E.P.E.",105212707,648
-671001329,Secretaria Regional de Equipamentos e Infraestruturas,100865538,41
-509822932,"Unidade Local de Saúde da Região de Leiria, EPE",98943013,1391
-508878462,Unidade Local de Saúde de Entre o Douro e Vouga,92830324,1143
-506361438,Instit. Port. Oncologia Coimbra Francisco Gentil,92183184,1602
-500051070,Município de Lisboa,91068194,640
-600014665,Secretaria-Geral do MAI,87867183,137
-514387130,"Águas do Tejo Atlântico, SA",87392061,95
-509540716,"Serviços Partilhados do Ministério da Saúde, EPE",84958337,196
-500745471,Santa Casa da Misericórdia de Lisboa,84471643,633
-509822940,"Unidade Local de Saúde de Viseu Dão-Lafões, EPE",84027506,1554
-507866673,"REN - Rede Eléctrica Nacional, SA",83987308,21
-508085888,"Unidade Local de Saúde do Alentejo Central, EPE",83064292,954
-513606084,"Águas do Norte, SA",82762229,1866
-506361608,"Unidade Local de Saúde do Médio Tejo, EPE",77548119,1138
-508786193,"Unidade Local de Saúde do Alto Minho, EPE",73773647,1165
-600084779,Autoridade Tributária e Aduaneira,70892628,198
-500906840,"EPAL, S.A.",70288868,100
-509186998,"Unidade Local de Saúde do Arco Ribeirinho, EPE",70166280,1096
-500900469,Serviço de Utilização Comum dos Hospitais,69620920,398
-508318262,"Centro Hospitalar do Tâmega e Sousa, E. P. E.",68068860,742
-508100496,"Unidade Local de Saúde de Trás-os-Montes e Alto Douro, EPE",64813392,647
-501356126,"Instituto Nacional de Emergência Médica, IP",63156659,132
-501294996,Município de Loures,62674959,331
+503933813,Infraestruturas de Portugal,825612931,509
+508481287,"Unidade Local de Saúde de Santa Maria, EPE",502443910,3881
+510103448,"Unidade Local de Saúde de Coimbra, EPE",396119249,3674
+517392259,"Unidade Local de Saúde de Santo António, EPE",390951803,1195
+508080142,"Unidade Local de Saúde de São José, EPE",326063577,2957
+506362299,"IPO Porto FG, EPE",260864073,8766
+509821197,"Unidade Local de Saúde de São João, EPE",231705495,1255
+507618319,"Unidade Local de Saúde de Lisboa Ocidental, EPE",221598084,1750
+512012032,"ELECTRICIDADE DOS AÇORES, S.A.",197530076,63
+515545180,Unidade Local de Saúde de Braga EPE,184493022,1637
+510745997,"Unidade Local de Saúde do Algarve, EPE",176295093,2632
+511010435,"EEM - Empresa de Electricidade da Madeira, SA",155880848,52
+505187531,Município de Cascais,152952796,336
+508142156,"Unidade Local de Saúde de Gaia/Espinho, EPE",138947982,3864
+600085171,Direção-Geral de Reinserção e Serviços Prisionais,134057730,279
+503035416,"Unidade Local de Saúde de Amadora/Sintra, EPE",134018565,1549
+600012662,MARINHA - Messe de Cascais,123240751,1135
+506361470,"Unidade Local de Saúde de Almada-Seixal, EPE",122730054,4207
+600010686,Força Aérea,118908293,1256
+508080827,"Unidade Local de Saúde do Alto Ave, EPE",117894285,1376
+511228848,"Serviço de Saúde da Região Autónoma da Madeira,EPE",117867109,1571
+506361616,"Instituto Português de Oncologia de Lisboa FG, E.P.E.",113794850,804
+500498601,CP-Comboios de Portugal,111210623,84
+508318262,"Unidade Local de Saúde Tâmega e Sousa, E.P.E.",106491798,993
+671001329,Secretaria Regional de Equipamentos e Infraestruturas,104603064,46
+509822932,"Unidade Local de Saúde da Região de Leiria, EPE",102642794,1543
+600014665,Secretaria-Geral do MAI,99416579,142
+508878462,Unidade Local de Saúde de Entre o Douro e Vouga,98859272,1225
+500051070,Município de Lisboa,98518284,720
+509540716,"Serviços Partilhados do Ministério da Saúde, EPE",95834653,224
+506361438,Instit. Port. Oncologia Coimbra Francisco Gentil,92808249,1625
+509822940,"Unidade Local de Saúde de Viseu Dão-Lafões, EPE",91843596,1775
+507866673,"REN - Rede Eléctrica Nacional, SA",87761295,24
+508085888,"Unidade Local de Saúde do Alentejo Central, EPE",85989708,1065
+500745471,Santa Casa da Misericórdia de Lisboa,83623233,678
+500900469,Serviço de Utilização Comum dos Hospitais,82847474,474
+514387130,"Águas do Tejo Atlântico, SA",81169482,105
+506361608,"Unidade Local de Saúde do Médio Tejo, EPE",79452490,1191
+500745943,Município de Oeiras,77204169,603
+508786193,"Unidade Local de Saúde do Alto Minho, EPE",77203663,1257
+600084779,Autoridade Tributária e Aduaneira,75062140,217
+508100496,"Unidade Local de Saúde de Trás-os-Montes e Alto Douro, EPE",74838919,769
+509186998,"Unidade Local de Saúde do Arco Ribeirinho, EPE",71366162,1121
+513606084,"Águas do Norte, SA",70889458,2086
+501294996,Município de Loures,68826189,361
+504322915,"Instituto de Informática, IP",68052686,106
+501306099,Município do Porto,63648773,392
 600087816,Gabinete do Secretário de Estado das Infraestruturas,62648722,2
-501306099,Municipio do Porto,62509689,349
-500745943,Município de Oeiras,59832759,526
-505176300,"Águas do Algarve, SA",58793649,100
-505309939,Município de Portimão,58191910,241
-506361462,"Unidade Local de Saúde da Lezíria, EPE",57163836,861
+505309939,Município de Portimão,61186348,265
+506361462,"Unidade Local de Saúde da Lezíria, EPE",60196799,970
+506901173,Município de Braga,58270150,380
+505387131,Município da Maia,56490440,259
+510123210,"Unidade Local de Saúde da Região de Aveiro, EPE",56137462,630
 503517666,"Lisboagás GDL - Sociedade Distribuidora de Gás Natural de Lisboa, S. A.",55746850,2
-505387131,Município da Maia,55255234,257
-513606181,"Águas do Centro Litoral, SA",55131038,117
-510123210,"Unidade Local de Saúde da Região de Aveiro, EPE",53417322,587
-505037238,"Gestão e Obras do Porto, EM",53134430,112
-506901173,Município de Braga,51435828,314
-501306269,Município de Ovar,51071700,244
-504322915,"Instituto de Informática, IP",50705197,93
-501617582,Universidade de Coimbra,46441498,956
-500051062,Município de Sintra,46392111,518
-510209718,"Fundo Regional dos Transportes Terrestres, IP R. A.",45350312,5
-509932584,"Unidade Local de Saúde do Nordeste, EPE",42590446,830
-505181266,Município de Leiria,42464043,430
-516726862,"Unidade Local de Saúde de Loures-Odivelas, EPE",42457567,646
-501559094,UNL - ITQB,41352882,734
-513606130,"Águas do Vale do Tejo, SA",41165572,86
-506415082,Município de Coimbra,40929667,199
-501449752,"APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo",40746511,63
-508069645,"Construção Pública, EPE",40610159,145
-501442600,Serviços Centrais,40152566,1667
-508094461,"Unidade Local de Saúde do Alto Alentejo, EPE",40035678,1817
-502177080,Município de Mafra,39401658,260
-503450189,EDIA-EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS,39344946,81
-501413197,Centro de Desporto,38858054,786
-506614913,Município de Vila Franca de Xira,38670689,292
-501305912,Município de Matosinhos,36593589,374
-506874249,Município de Alcobaça,36229379,173
-600010180,Instituto Universitário Militar,36066965,833
-505948605,Município de Guimarães,35929482,245
-506361659,"Unidade Local de Saúde da Cova da Beira, EPE",35465282,661
-516487493,"Unidade Local de Saúde do Estuário do Tejo, EPE",35462146,227
-502011378,Universidade do Minho,34195067,1559
-512077843,"PORTOS DOS AÇORES, SA",34149258,20
-502098139,Município de Loulé,33912707,383
-510342647,"Instituto da Conservação da Natureza e das Florestas, IP",32987519,92
-600021610,Exército,32819971,356
-507606787,Centro Hospitalar de Setubal,31990772,233
-510306624,"Agência Portuguesa do Ambiente,IP",31233157,196
-500723770,"TTSL - Transtejo Soflusa, SA",31151827,95
-506673626,Município do Barreiro,30710026,139
-505584760,Município de Barcelos,30434547,241
-514310774,"Águas do Douro e Paiva, SA",30105145,151
-505776758,Município da Marinha Grande,29598903,137
-508184509,"Agência Para A Reforma Tecnológica do Estado, IP",29055791,122
-510361242,INSTITUTO DE GESTÃO FINANCEIRA E EQUIPAMENTOS DA J,28502207,88
-506697320,Municipio de Viseu,28495058,293
-501131140,Município da Guarda,28327131,142
-600006662,Direcção Nacional da PSP,28209763,198
-504293125,Município de Odivelas,27702668,190
-501157280,MUNICÍPIO DE SANTA MARIA DA FEIRA,27676325,173
-501461108,Universidade de Aveiro,26680854,624
-500595313,"Companhia Carris de Ferro de Lisboa, EM, SA",26647658,104
-505330768,Município da Covilhã,26516956,146
-508752000,"Unidade Local de Saúde da Guarda, EPE",26059474,542
-514993871,"Unidade Local de Saúde do Oeste,EPE",25687272,398
+516726862,"Unidade Local de Saúde de Loures-Odivelas, EPE",55174801,977
+500906840,"EPAL, S.A.",54619261,112
+505037238,"Gestão e Obras do Porto, EM",54364040,117
+500051062,Município de Sintra,54315766,585
+501306269,Município de Ovar,53980677,269
+501617582,Universidade de Coimbra,50386616,1256
+505176300,"Águas do Algarve, SA",50148935,102
+513606181,"Águas do Centro Litoral, SA",48260010,137
+505181266,Município de Leiria,48188399,474
+501305912,Município de Matosinhos,47515468,426
+506415082,Município de Coimbra,47423155,221
+501356126,"Instituto Nacional de Emergência Médica, IP",46864079,145
+516487493,"Unidade Local de Saúde do Estuário do Tejo, EPE",46339353,263
+510209718,"Fundo Regional dos Transportes Terrestres, IP R. A.",45380311,6
+508094461,"Unidade Local de Saúde do Alto Alentejo, EPE",45082802,2015
+501442600,Serviços Centrais,43878124,1778
+501559094,UNL - ITQB,43782259,797
+509932584,"Unidade Local de Saúde do Nordeste, EPE",43161492,867
+501449752,"APDL - Administração dos Portos do Douro, Leixões e Viana do Castelo",42986353,70
+502098139,Município de Loulé,41411785,438
+501413197,Centro de Desporto,41232936,867
+508069645,"Construção Pública, EPE",41064057,162
+502177080,Município de Mafra,40726246,290
+506874249,Município de Alcobaça,39664543,201
+503450189,EDIA-EMPRESA DE DESENVOLVIMENTO E INFRA-ESTRUTURAS,39646424,88
+506614913,Município de Vila Franca de Xira,38976561,318
+512077843,"Portos dos Açores, SA",37896015,23
+505948605,Município de Guimarães,37589294,284
+600010180,Instituto Universitário Militar,37377923,976
+506361659,"Unidade Local de Saúde da Cova da Beira, EPE",37202238,732
+600021610,Exército,37178375,410
+600006662,Direcção Nacional da PSP,36303832,226
+510306624,Agência Portuguesa do Ambiente,35316400,220
+502011378,Universidade do Minho,35124465,1669
+513606130,"Águas do Vale do Tejo, SA",34936180,92
+507606787,Centro Hospitalar de Setubal,34074631,263
+510342647,"Instituto da Conservação da Natureza e das Florestas, IP",33774181,105
+505776758,Município da Marinha Grande,33729736,158
+505584760,Município de Barcelos,33538173,273
+500723770,"TTSL - Transtejo Soflusa, SA",33305093,110
+506697320,Município de Viseu,32865495,300
+508184509,"Agência Para A Reforma Tecnológica do Estado, IP",32819896,143
+600014576,Secretaria-Geral do Min. dos Negócios Estrangeiros,32456774,68
+501131140,Município da Guarda,31667598,171
+506673626,Município do Barreiro,31597639,159
+504293125,Município de Odivelas,30417799,252
+514993871,"Unidade Local de Saúde do Oeste,EPE",30313984,514
+510361242,INSTITUTO DE GESTÃO FINANCEIRA E EQUIPAMENTOS DA J,30209352,99
+501157280,Município de Santa Maria da Feira,29130943,185
+500595313,"Companhia Carris de Ferro de Lisboa, EM, SA",29033892,122
+505456010,Município da Amadora,28798367,273
+506804240,Município de Lagoa,28767450,267
+508752000,"Unidade Local de Saúde da Guarda, EPE",27873497,574
+505330768,Município da Covilhã,27727729,171
+505804786,Município de Vila do Conde,27674682,374
+501461108,Universidade de Aveiro,26972376,678
+508666236,"Turismo de Portugal, IP",25986422,83
+503539473,Município de Albufeira,25807571,179
+508136644,"Instituto de Financiamento da Agricultura e Pescas, IP",25679750,159
 500246467,"Sociedade de Transportes Colectivos do Porto, EIM, SA",25581600,1
-508136644,"Instituto de Financiamento da Agricultura e Pescas, IP",25075234,140
-508666236,"Turismo de Portugal, IP",24337432,71
-506173968,Município do Seixal,23436729,207
-505456010,Município da Amadora,23302750,235
-503539473,MUNICÍPIO DE ALBUFEIRA,22860804,158
-505931192,Município de Aveiro,22535701,233
+505941350,Município de Santarém,24775307,118
+600085740,"Secretaria Regional do Turismo, Mobilidade e Infraestruturas",24637688,7
+505170876,Município de Lagos,24549896,221
+505931192,Município de Aveiro,24248364,250
+506173968,Município do Seixal,24004327,234
+680000054,Serviços Municipalizados de Sintra (SMAS),23567016,117
+506663264,Município de Vila Nova de Famalicão,23368290,397
+506848957,Município de Gondomar,23177516,277
+506037258,Município de Viana do Castelo,22683504,253
+501205551,Município de Chaves,22681117,222
+510445152,Unidade Local de Saúde do Litoral Alentejano EPE,22503514,181
+600008878,Guarda Nacional Republicana,21998638,277
+500051054,Município de Almada,21837216,212
 510263097,"Pinhal Natural - Serviços de Consultoria e Comércio de Produtos Regionais Unipessoal, L.da",21698364,7
-510445152,Unidade Local de Saúde do Litoral Alentejano EPE,21557173,150
-600014576,Secretaria-Geral do Min. dos Negócios Estrangeiros,21149022,62
-505804786,Município de Vila do Conde,21044521,314
-505941350,Município de Santarém,21024669,109
-506663264,MUNICÍPIO DE VILA NOVA DE FAMALICÃO,20861299,348
-503518689,Associação de Municípios do Douro Superior de Fins Específicos,20644270,9
-506037258,Município de Viana do Castelo,20625656,221
-501102752,Município de Amarante,20493473,160
-504884620,MUNICIPIO DE BEJA,20011563,118
+501102752,Município de Amarante,21635602,178
+502834846,Município do Montijo,21282477,269
+503518689,Associação de Municípios do Douro Superior de Fins Específicos,20928418,10
+502173653,Município de Torres Vedras,20890443,282
+501294104,Município de Setúbal,20850170,362
+505335018,Município de Vila Nova de Gaia,20832258,255
+514310774,"Águas do Douro e Paiva, SA",20700845,174
+504884620,Município de Beja,20660985,140
+509309844,"Unidade Local de Saúde de Castelo Branco, EPE",20192650,406
+500122237,Fundação INATEL,20062505,851
 506883078,"ÁGUAS DE PAÇOS DE FERREIRA, S.A.",19982330,3
-509309844,"Unidade Local de Saúde de Castelo Branco, EPE",19932371,394
-505335018,Município de Vila Nova de Gaia,19848034,231
-600008878,Guarda Nacional Republicana,19801809,256
-501205551,Município de Chaves,19781045,171
-501294104,Município de Setúbal,19637415,313
-680000054,Serviços Municipalizados de Sintra (SMAS),19487845,97
-505170876,MUNICIPIO DE LAGOS,19425264,195
-500122237,Fundação Inatel,18903926,754
+506361390,"Unidade Local de Saúde de Matosinhos, EPE",19982292,154
+500192855,"Metropolitano de Lisboa, EPE",19737123,210
+506741400,Município da Póvoa de Varzim,19713182,277
+508093937,"Unidade Local de Saúde do Médio Ave, EPE",19625806,279
+507396081,"EMAC - Empresa de Ambiente de Cascais, EM, SA",19527392,144
+501138960,Município de Valongo,19469194,346
+508754275,"Unidade Local de Saúde do Baixo Alentejo, EPE",19102052,747
+513025766,Comunidade Intermunicipal das Beiras e Serra da Estrela,18893244,35
 511026340,"Horários do Funchal - Transportes Públicos, SA",18778874,8
-502834846,Município do Montijo,18738915,243
-513025766,Comunidade Intermunicipal das Beiras e Serra da Estrela,18631525,28
-502173653,Município de Torres Vedras,18196167,258
-500192855,"Metropolitano de Lisboa, EPE",17660324,185
-501460888,"Instituto da Habitação e da Reabilitação Urbana, IP",16978237,93
-500051054,Município de Almada,16827871,181
-508093937,"Unidade Local de Saúde do Médio Ave, EPE",16746497,235
-508754275,"Unidade Local de Saúde do Baixo Alentejo, EPE",16593463,688
-506361390,"Unidade Local de Saúde de Matosinhos, EPE",16468256,135
-501138960,Município de Valongo,16144923,309
-505305500,"ECOplug, Lda",15702737,311
-501144218,Município de Sesimbra,15689049,206
-506848957,Município de Gondomar,15672815,230
-505037700,"CMPH  Empresa de Habitação e Manutenção do Município do Porto, E.M.",15510069,307
-501201920,Universidade Évora,15315040,203
-507718666,AGUAS DO PORTO,15283333,129
-506741400,Município da Póvoa de Varzim,15275480,250
-501073663,Município de Penafiel,15161779,241
-506641376,Município de Vila Verde,14933316,150
-518985024,"Agência para a Gestão do Sistema Educativo, IP",14924538,64
-512105030,"HOSPITAL DE SANTO ESPÍRITO DA ILHA TERCEIRA, EPER",14824801,118
-504689878,CEIIA - Centro Exc. Inov. Ind. Automovel,14795385,94
-511236077,Associação de Promoção da Região Autónoma da Madeira,14446589,39
-517842920,"Património Cultural, IP",14404426,87
-506346773,"GESAMB - Gestão Ambiental e de Resíduos, EIM",14391834,40
-506359670,Município de Vila Real,14364199,170
-507396081,"EMAC - Empresa de Ambiente de Cascais, EM, SA",14329290,135
-505656000,Município de Rio Maior,14153455,107
+505305500,"ECOplug, Lda",18188147,346
+501460888,"Instituto da Habitação e da Reabilitação Urbana, IP",17990965,109
+505037700,"CMPH  Empresa de Habitação e Manutenção do Município do Porto, E.M.",17753266,346
+507718666,AGUAS DO PORTO,17683396,147
+506359670,Município de Vila Real,17588523,201
+501073663,Município de Penafiel,17533893,275
+600082563,Autoridade Nacional de Segurança Rodoviária,17242376,67
+502444010,"TRATOLIXO - Tratamento de Resíduos Sólidos, EIM",16692903,100
+501144218,Município de Sesimbra,16563648,232
+512105030,"Hospital de Santo Espírito da Ilha Terceira, EPER",16474202,138
+501427511,Instituto Nacional de Saúde Dr.Ricardo Jorge(INSA),16066096,301
+501280740,Município de Ourém,15783364,275
+502423943,INSTITUTO PORTUGUES SANGUE E TRANSPLANTAÇÃO,15720297,144
+506346773,"GESAMB - Gestão Ambiental e de Resíduos, EIM",15637732,46
+505656000,Município de Rio Maior,15549903,124
+506641376,Município de Vila Verde,15537297,163
+501201920,Universidade Évora,15464402,209
+505174839,"Parques de Sintra-Monte da Lua, SA",15462727,166
+504689878,CEIIA - Centro Exc. Inov. Ind. Automovel,15460925,100
+518985024,"Agência para a Gestão do Sistema Educativo, IP",15215137,74
+503541567,"GEBALIS - Gestão dos Bairros Municipais de Lisboa, E. E. M.",15213559,157
+507725689,"REN - Gasodutos, SA",15069078,5
+506334562,Município de Pombal,14941286,183
+501305580,Município da Figueira da Foz,14910774,295
+505279460,Município de Lousada,14795143,193
+504807692,"AGERE – Emp. Águas, Efluentes e Resíduos de Braga",14704929,106
+507718640,"Ágora - Cultura e Desporto do Porto, EM, SA",14685192,293
+511236077,Associação de Promoção da Região Autónoma da Madeira,14673111,43
+500225680,"Rádio e Televisão de Portugal, SA",14602008,134
+600054128,Secretário-Geral,14424592,94
+506823318,Município de Grândola,14353066,182
+506656128,Município de Paredes,14138013,199
 507958780,"Flatlantic - Actividades Piscícolas, SA",14135000,2
-600054128,Secretário-Geral,14063171,83
-514487003,"SEAENTIA FOOD, LDA",13997650,1
-500225680,"Rádio e Televisão de Portugal, SA",13775050,123
-506334562,Município de Pombal,13769884,167
-507725689,"REN - Gasodutos, SA",13745038,3
+506841561,Município de Fafe,14122755,200
+515486159,"Águas do Alto Minho, S. A.",14060489,88
+514487003,"SEAENTIA FOOD, LDA",13997649,1
+517842920,"Património Cultural, IP",13942871,94
+506884929,Município de Celorico de Basto,13764985,143
+517686260,Agência para a Integração Migrações e Asilo,13691624,72
 500151997,"Barraqueiro Transportes, SA",13640000,1
-501305580,MUNICÍPIO DA FIGUEIRA DA FOZ,13407153,263
-600072525,Direção-Geral da Administração da Justiça,13354427,578
-501280740,Município de Ourém,13323332,250
-501507930,Instituto Superior técnico,13197193,109
-502423943,INSTITUTO PORTUGUES SANGUE E TRANSPLANTAÇÃO,13098676,128
-505279460,Município de Lousada,12831240,170
-505174839,"Parques de Sintra-Monte da Lua, SA",12826617,146
-501275380,Município de Condeixa-a-Nova,12683804,82
-506884929,Município de Celorico de Basto,12633887,125
-517686260,Agência para a Integração Migrações e Asilo,12621555,70
-506302970,Município de Oliveira de Azeméis,12603749,120
-506823318,Município de Grândola,12563247,146
-510345271,"Instituto Nacional de Investigação Agrária e Veterinária, IP",12408844,125
-512103097,Hospital Divino Espírito Santo de Ponta Delgada EPER,12335657,73
-510265600,"Instituto Português do Mar e da Atmosfera, IP",12310462,388
-506656128,Município de Paredes,12269619,145
-503311332,"Empresa Municipal de Mobilidade e Estacionamento de Lisboa, E. M., S.A.",12267110,69
-516839268,BIKINNOV - Bike Value Innovation Center - Association,12192084,72
-515486159,"Águas do Alto Minho, S. A.",12172336,78
+600072525,Direção-Geral da Administração da Justiça,13561726,653
+501507930,Instituto Superior Técnico,13511398,118
+506302970,Município de Oliveira de Azeméis,13508010,133
+512103097,Hospital Divino Espírito Santo de Ponta Delgada EPER,13410984,85
+506818837,Município de Silves,13220847,235
+506361381,"Unidade Local de Saúde Barcelos/Esposende, E.P.E.",13207814,246
+511217315,Município do Funchal,13207463,114
+510265600,"Instituto Português do Mar e da Atmosfera, IP",13026902,422
+510345271,"Instituto Nacional de Investigação Agrária e Veterinária, IP",12998250,145
+500792887,IMPRENSA NACIONAL - CASA MOEDA,12840677,133
+501275380,Município de Condeixa-a-Nova,12691184,83
+506321894,Município de Olhão,12450749,149
+504448064,NAV Portugal E.P.E.,12408250,66
+503692310,Ordem dos Contabilistas Certificados,12279946,70
+516839268,BIKINNOV - Bike Value Innovation Center - Association,12242063,72
+506684920,Município de Carregal do Sal,12122818,91
 504346261,"REN Atlântico - Terminal de GNL, SA",12091853,3
-506804240,MUNICIPIO DE LAGOA,12069460,210
-502444010,"TRATOLIXO - Tratamento de Resíduos Sólidos, EIM",11967677,87
-600086631,"Instituto de Gestão Financeira da Educação, IP",11967284,17
-509133843,"AgdA - Águas Públicas do Alentejo, SA",11942137,61
-509574513,"ARM - Águas e Resíduos da Madeira, S.A.",11788074,94
-506361381,"Unidade Local de Saúde de Barcelos/Esposende, EPE",11739556,202
-510342191,"ESPAP, IP - DCP + ESPAP, IP - DCP",11579106,65
-501427511,Instituto Nacional de Saúde Dr.Ricardo Jorge(INSA),11496425,231
-506321894,Município de Olhão,11454716,117
-503692310,Ordem dos Contabilistas Certificados,11228014,65
-501067191,Municipio de Tavira,11176976,71
-506811913,Município de Ponte de Lima,11164755,199
-504441361,"INESC TEC - Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciência",11100351,141
-503541567,"GEBALIS - Gestão dos Bairros Municipais de Lisboa, E. E. M.",10992601,100
-506818837,Município de Silves,10978579,203
-600011712,Polícia Judiciária,10904106,102
-504853635,"Cascais Próxima - Gestão de Mobilidade, Espaços Urbanos e Energias, EM, SA",10878697,67
-511131879,"Sociedade de Desenvolvimento do Porto Santo, SA",10874651,18
-511217315,Município do Funchal,10727164,96
-514385901,"SIMARSUL - Saneamento da Península de Setúbal, SA",10718337,43
-501306870,Município de Santo Tirso,10706385,147
-506087000,MUNICIPIO DE CANTANHEDE,10496436,92
-504828576,MUNICÍPIO DE ÉVORA,10475137,94
-508831725,Comunidade Intermunicipal da Beira Baixa,10431227,34
-501158740,Município de Espinho,10410267,71
-500086826,"DOCAPESCA - Portos e Lotas, SA",10386398,103
-503584215,EGEAC(Emp. de Gestão de Equip.e Animação Cultural),10360799,326
-504807692,"AGERE – Emp. Águas, Efluentes e Resíduos de Braga",10203380,85
+506811913,Município de Ponte de Lima,12062445,219
+600086631,"Instituto de Gestão Financeira da Educação, IP",11967283,17
+508345464,"AR - Águas do Ribatejo, EIM, SA",11943230,42
+509574513,"ARM - Águas e Resíduos da Madeira, S.A.",11899426,98
+503311332,"Empresa Municipal de Mobilidade e Estacionamento de Lisboa, E. M., S.A.",11896149,71
+600011712,Polícia Judiciária,11713653,118
+504441361,"INESC TEC - Instituto de Engenharia de Sistemas e Computadores, Tecnologia e Ciência",11692471,144
+501222634,Município das Caldas da Rainha,11604637,153
+503584215,EGEAC(Emp. de Gestão de Equip.e Animação Cultural),11566358,357
+506617599,Município de Esposende,11538392,140
+510342191,"ESPAP, IP - DCP + ESPAP, IP - DCP",11502658,74
+501073655,Município de Marco de Canaveses,11494381,150
+501306870,Município de Santo Tirso,11373370,165
+506087000,Município de Cantanhede,11362421,97
+501067191,Município de Tavira,11173868,90
+509107630,"ADRA Aguas da Região de Aveiro, S.A",11165147,57
+680009671,SIMAR – Serviços Intermunicipalizados de Loures e Odivelas,11052238,131
+511131879,"Sociedade de Desenvolvimento do Porto Santo, SA",11023432,21
+501158740,Município de Espinho,11002237,82
+506808122,Município de Arouca,10838306,126
+507023129,Lisboa SRU,10780095,96
+600082490,Autoridade Nacional de Emergência e Proteção Civil,10744124,95
+508831725,Comunidade Intermunicipal da Beira Baixa,10577046,39
+501937471,Município de Monção,10559097,127
+505211696,Município de Arcos de Valdevez,10545558,97
+508195446,Instituto da Mobilidade e dos Transportes,10526194,95
+502678917,Município de Castelo de Paiva,10522740,80
+503671320,"Metro Mondego, SA",10455901,37
+502083514,Universidade da Beira Interior,10444916,175
 600084809,Direção-Geral da Educação,10173704,4
-506684920,Município de Carregal do Sal,10153349,80
-502083514,Universidade da Beira Interior,10140145,164
-508741823,"Unidade Local de Saúde Póvoa de Varzim/Vila do Conde, EPE",9864224,442
-508345464,"AR - Águas do Ribatejo, EIM, SA",9843908,37
-503671320,"Metro Mondego, SA",9776621,32
-506617599,MUNICÍPIO DE ESPOSENDE,9691320,121
-501222634,Município das Caldas da Rainha,9633694,134
-507023129,Lisboa SRU,9627723,87
-506971244,INSTITUTO POLITÉCNICO DE LEIRIA,9520515,255
-509107630,"ADRA Aguas da Região de Aveiro, S.A",9495388,49
-505211696,Município de Arcos de Valdevez,9462142,82
-600045234,DGV-Direcção Geral de Veterinária,9416065,71
-506920887,Município de Ilhavo,9414791,107
-600088103,Secretaria-Geral do Governo,9278263,94
-505985217,Município de Vizela,9255733,218
-506361527,"Unidade Local de Saúde do Baixo Mondego, EPE",9239033,213
-504448064,NAV Portugal E.P.E.,9068510,61
-501345361,Universidade de Trás-os-Montes e Alto Douro,9055043,221
-503278602,"Metro do Porto, SA",8956455,4
-600082490,Autoridade Nacional de Emergência e Proteção Civil,8941470,50
-506802698,Município de Óbidos,8920483,144
-506215547,Municipio de Bragança,8890778,144
-514310103,"SIMDOURO - Saneamento do Grande Porto, SA",8884736,161
-503279765,Município de Mértola,8855118,124
-503904040,"Fundação para a Ciência e a Tecnologia, IP",8793172,85
-502563010,Município de Sines,8748931,179
-506728897,Município de Valença,8679194,102
+500086826,DOCAPESCA - Portos e Lotas SA.,10104938,105
+504828576,Município de Évora,10051668,97
+503279765,Município de Mértola,9993760,145
+506971244,Universidade de Leiria e Oeste,9971010,266
+600088103,Secretaria-Geral do Governo,9962818,114
+504763202,"Águas de Gaia, EM, SA",9936128,89
+505985217,Município de Vizela,9927030,247
+501090436,Município de Águeda,9774895,174
+506920887,Município de Ílhavo,9756059,118
+504853635,"GEST MOBILE, ESPAÇOS URBANOS E ENERGIAS, E.M.",9715330,73
+506802698,Município de Óbidos,9663845,169
+508741823,"Unidade Local de Saúde Póvoa de Varzim/Vila do Conde, EPE",9659473,452
+504296434,Município da Trofa,9599938,143
+503278602,"Metro do Porto, SA",9568377,5
+509133843,"AgdA - Águas Públicas do Alentejo, SA",9543850,62
+600045234,DGV-Direcção Geral de Veterinária,9427300,73
+506215547,Município de Bragança,9410378,158
+507700651,Penafiel Verde EM,9407197,76
+506664686,Município de Moimenta da Beira,9377666,94
+506632920,Município da Póvoa de Lanhoso,9331422,165
+506361527,"Unidade Local de Saúde do Baixo Mondego, EPE",9238917,236
+506215695,Município do Fundão,9192789,192
+501345361,Universidade de Trás-os-Montes e Alto Douro,9172102,230
+506728897,Município de Valença,9017922,111
+502563010,Município de Sines,8974498,191
+506814343,Município de Mação,8888982,100
+502661038,Município de Abrantes,8818906,175
+505987449,Município de Figueira de Castelo Rodrigo,8758645,56
 501880160,Associação de Turismo de Lisboa - Visitors and Convention Bureau,8662664,18
-680009671,SIMAR – Serviços Intermunicipalizados de Loures e Odivelas,8660258,106
-500792887,IMPRENSA NACIONAL CASA DA MOEDA,8512543,122
-505987449,Municipio de Figueira de Castelo Rodrigo,8487197,51
-506841561,Munícipio de Fafe,8379802,185
-504763202,"Águas de Gaia, EM, SA",8352341,82
-506215695,Município do Fundão,8338301,172
-501090436,Município de Águeda,8326027,162
-506664686,Município de Moimenta da Beira,8324164,76
-506613461,Municipio de Vila Viçosa,8311890,103
-506632920,Município da Póvoa de Lanhoso,8219256,142
-502177101,Município da Lourinhã,8028912,94
-680015019,SIMAS Oeiras e Amadora,8014452,66
-508195446,Instituto da Mobilidade e dos Transportes,7991147,75
-501073655,Município do Marco de Canaveses,7978688,140
-510089224,"Instituto Português do Desporto e Juventude, IP",7957807,127
-501120149,MUNICÍPIO DO ENTRONCAMENTO,7856157,53
-507718640,"Ágora - Cultura e Desporto do Porto, EM, SA",7839062,219
-504296434,Município da Trofa,7781499,131
-501394192,Associação de Municípios para a Gestão Sustentável de Resíduos do Grande Porto - LIPOR,7771703,73
-501143530,Município de Castelo Branco,7654248,149
-504703129,Ambisousa,7632233,54
+680015019,SIMAS Oeiras e Amadora,8605788,79
+502177101,Município da Lourinhã,8579958,105
+510089224,"Instituto Português do Desporto e Juventude, IP",8531062,139
+506613461,Município de Vila Viçosa,8525672,111
+510739024,Universidade de Lisboa,8512246,101
+506785815,Município de São Pedro do Sul,8509780,96
+506791220,Município da Moita,8478632,185
+501216839,Município de Ferreira do Zêzere,8467928,90
+503904040,"Fundação para a Ciência e a Tecnologia, IP",8460124,87
+600087522,Direção Regional da Educação e Administração Educativa,8444859,23
+505255391,Ambilital-Investimentos Ambientais no Alentejo EIM,8261184,64
+501120149,Município do Entroncamento,8205839,67
+501394192,LIPOR - Associação de Municípios para a Gestão Sustentável de Resíduos do Grande Porto,8139186,82
+506572218,Município de Lamego,8062052,121
+506787249,Município de Pinhel,8026788,115
+506149811,Município de Montalegre,7978075,137
+506824942,Município de Sabrosa,7967501,84
+501156003,Município de Vinhais,7962730,97
+506780902,Município do Cartaxo,7952482,91
+502201886,Centro Tecnológico das Indústrias Têxtil e do Vestuário de Portugal - CITEVE,7939821,128
+501091823,Município de Felgueiras,7891695,197
+516150359,"TML - Transportes Metropolitanos de Lisboa, EMT, SA",7857212,80
+506874320,Município de Valpaços,7848280,243
+514385901,"SIMARSUL - Saneamento da Península de Setúbal, SA",7846014,44
+671001310,Secretaria Regional das Finanças,7835438,74
+501190082,Município de Estarreja,7811490,137
+504703129,Ambisousa,7780492,57
+505586401,Município de Porto de Mós,7711781,116
+515545236,Tejo Ambiente,7708507,63
+501143530,Município de Castelo Branco,7696301,157
+500792771,Banco de Portugal,7688937,102
+506627888,Município de Vimioso,7626791,37
 516750178,"ETUG - Empresa Transportes Urbanos da Guarda, Unipessoal, Lda.",7599947,2
-502661038,Município de Abrantes,7581076,154
-506791220,Município da Moita,7559606,155
+503093742,"AdP - Águas de Portugal, SGPS, SA",7597845,23
+600087174,Direção Regional da Saúde,7585201,30
+506851168,Município de Mogadouro,7583579,89
+514310103,"SIMDOURO - Saneamento do Grande Porto, SA",7564161,171
+502130040,Município de Santiago do Cacém,7535749,147
+511137753,"APRAM - Administração dos Portos da Região Autónoma da Madeira, SA",7513718,42
 502369345,AISA- Associação de Apoio Social de Nossa Senhora da Assunção,7499361,1
-515545236,Tejo Ambiente,7415868,56
-506149811,Município de Montalegre,7366105,122
-506787249,Município de Pinhel,7347558,98
-600087174,Direção Regional da Saúde,7275762,25
-502201886,Centro Tecnológico das Indústrias Têxtil e do Vestuário de Portugal - CITEVE,7243691,120
-510739024,Universidade de Lisboa,7230959,89
-506851168,Município de Mogadouro,7162707,79
+501262997,Município de Mangualde,7413516,134
+506907619,Município de Terras de Bouro,7405702,117
+511244681,Município de Santa Cruz,7321314,104
+680033629,Serviços Municipalizados de Setúbal,7280025,100
+505307685,Município de Arruda dos Vinhos,7219986,86
+502256869,Administração do Porto de Setúbal,7174916,47
+508114381,"AS - Empresa das Águas de Santarém, EM, SA",7160623,61
 502854200,Instituto de Telecomunicações,7148906,163
-506572218,Município de Lamego,7056031,98
-506874320,Município de Valpaços,6957241,222
-501156003,Município de Vinhais,6946732,77
-506808122,Município de Arouca,6945308,93
-505255391,Ambilital-Investimentos Ambientais no Alentejo EIM,6939799,55
-501335579,"Translagos-Transportes Públicos, Lda",6917681,5
-501190082,Município de Estarreja,6876544,129
-680033629,Serviços Municipalizados de Setubal,6863688,94
-671001310,Secretaria Regional das Finanças,6843488,63
-503554286,Cesae Digital - Centro para o Desenvolvimento de Competências Digitais,6804983,17
-501216839,Município de Ferreira do Zêzere,6792418,76
-506810267,Município de Vila Pouca de Aguiar,6786812,81
-506785815,Município de São Pedro do Sul,6744496,90
-505307685,Município de Arruda dos Vinhos,6698585,74
-516857274,SEAPOWER - ASSOCIAÇÃO PARA O DESENVOLVIMENTO DA ECONOMIA DO MAR,6641661,32
-501128840,Município de Oliveira do Bairro,6630374,86
-500792771,Banco de Portugal,6621101,89
-506824942,Município de Sabrosa,6597637,74
-500715505,"Instituto de Gestão Financeira da Segurança Social, IP",6588520,31
-506697339,Município de Macedo de Cavaleiros,6583046,103
-506907619,Município de Terras de Bouro,6569077,105
-680020063,Serviços Municipalizados de Viseu,6538008,68
-501091823,Município de Felgueiras,6517435,153
-506809323,Município de Vila Nova de Paiva,6503047,35
-516150359,"TML - Transportes Metropolitanos de Lisboa, EMT, SA",6501823,71
-511035365,"IHM - Investimentos Habitacionais da Madeira, EPERAM",6493654,19
-509830072,IST-ID - Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento,6479075,142
-505387271,Universidade do Algarve,6430510,259
-500746427,"Instituto de Ação Social das Forças Armadas, IP",6429938,79
-600013758,Instituto Politécnico de Bragança,6428753,121
-506783146,Município de Albergaria-a-Velha,6394657,123
-502173297,Município de Paços de Ferreira,6372370,128
-517804417,Museus e Monumentos de Portugal EPE,6250903,150
-501262997,Municipio de Mangualde,6221015,107
-506627888,Município de Vimioso,6190699,31
-510928374,"Agência para o Desenvolvimento e Coesão, IP",6172968,32
-505586401,Município de Porto de Mós,6164582,94
-505330334,Município de Cabeceiras de Basto,6159701,98
-506791238,Município da Murtosa,6135396,54
-502788283,ASSOCIAÇÃO DE MUNICIPIOS DA REGIÃO DO PLANALTO BEIRÃO,6129190,19
-506818098,Município de Ribeira de Pena,6046704,48
-502662875,Faculdade de Medicina,6041986,73
-600084973,"Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos",6034939,24
-506814343,Município de Mação,6034606,91
-511244681,Município de Santa Cruz,6031989,84
-506811662,Município de Sabugal,6016241,115
-512012814,Município de Ponta Delgada,5972042,101
-505322730,"EMARP-EMPRESA MUNICIPAL DE ÁGUAS E RESÍDUOS DE PORTIMÃO, EEM",5907869,92
-502659807,Faculdade de Farmácia,5896949,92
-507131827,Fundação Champalimaud,5886882,31
-506797627,Município de Amares,5830888,83
-502678917,Município de Castelo de Paiva,5803105,66
-506187543,Município de Palmela,5752590,104
-500843139,Município de Caminha,5696249,113
-503093742,"AdP - Águas de Portugal, SGPS, SA",5680849,17
-506806456,Município de Ponte de Sor,5664293,103
-501937471,Município de Monção,5643105,115
-511233639,Município da Calheta,5579925,55
-512044040,Município de Angra do Heroísmo,5458562,49
-506722422,Município de Coruche,5447728,88
-506967107,Município de Mondim de Basto,5443953,62
-506821480,Município de Azambuja,5430185,94
-502946679,"COMPETIR - Formação e Serviços, SA",5424471,151
-501202021,"APL - Administração do Porto de Lisboa, SA",5362442,66
-506881784,Município de Mirandela,5362327,108
-501306234,Município de Oliveira de Frades,5341744,75
-507700651,Penafiel Verde EM,5318647,59
-502174153,Município de Moura,5310768,100
-501121030,Municipio de Idanha-a-Nova,5214241,80
-506963837,Município da Sertã,5199156,107
-506538575,Município de São João da Madeira,5195004,107
-506579425,Município de Faro,5128008,120
-506676170,Município de Seia,5124705,96
+501143718,Município de Portalegre,7134182,150
+506783146,Município de Albergaria-a-Velha,6984843,137
+501335579,"Translagos, Transportes Públicos;Lda",6917681,5
+680020063,Serviços Municipalizados de Viseu,6887209,81
+600013758,Instituto Politécnico de Bragança,6862102,136
+506697339,Município de Macedo de Cavaleiros,6852964,117
+506854299,Município de Baião,6850557,108
+503554286,Cesae Digital - Centro para o Desenvolvimento de Competências Digitais,6812232,18
+506810267,Município de Vila Pouca de Aguiar,6803447,82
+501431535,Porto de Aveiro,6778128,20
+506809323,Município de Vila Nova de Paiva,6766976,44
+502173297,Município de Paços de Ferreira,6755581,147
+501272976,Município de Montemor-o-Velho,6751880,101
+502659807,Faculdade de Farmácia,6737239,98
+510928374,"Agência para o Desenvolvimento e Coesão, IP",6711868,35
+516857274,SEAPOWER - Associação para o Desenvolvimento da Economia do Mar,6693113,34
+505542331,"Resíduos do Nordeste, EIM, SA",6675058,18
+500746427,"Instituto de Ação Social das Forças Armadas, IP",6671405,87
+505387271,Universidade do Algarve,6658546,296
+509830072,IST-ID - Associação do Instituto Superior Técnico para a Investigação e Desenvolvimento,6628998,143
+506791238,Município da Murtosa,6627493,62
+500715505,"Instituto de Gestão Financeira da Segurança Social, IP",6607785,32
+517804417,Museus e Monumentos de Portugal EPE,6574147,170
+512012814,Município de Ponta Delgada,6552681,109
+511035365,"IHM - Investimentos Habitacionais da Madeira, EPERAM",6506786,20
+506797627,Município de Amares,6481668,97
+502662875,Faculdade de Medicina,6439345,79
+506806456,Município de Ponte de Sor,6422665,123
+506579425,Município de Faro,6419459,145
+502174153,Município de Moura,6415575,112
+671000527,"Secretaria Regional de Turismo, Ambiente e Cultura",6327523,62
+506187543,Município de Palmela,6319577,124
+505330334,Município de Cabeceiras de Basto,6236415,106
+502788283,Associação de Municípios da Região do Planalto Beirão,6232071,25
+600084973,"Direção-Geral de Recursos Naturais, Segurança e Serviços Marítimos",6206089,28
+506818098,Município de Ribeira de Pena,6203800,52
+505322730,"EMARP-EMPRESA MUNICIPAL DE ÁGUAS E RESÍDUOS DE PORTIMÃO, EEM",6155398,97
+506811662,Município de Sabugal,6114007,121
+506881784,Município de Mirandela,6077805,124
+506967107,Município de Mondim de Basto,6051305,68
+501128840,Município de Oliveira do Bairro,5970868,90
+506722422,Município de Coruche,5952556,100
+501202021,"APL - Administração do Porto de Lisboa, SA",5922784,76
+511233620,Município de Câmara de Lobos,5908254,63
+507131827,Fundação Champalimaud,5902027,33
+500843139,Município de Caminha,5869497,120
+506676170,Município de Seia,5846645,118
+506821480,Município de Azambuja,5804802,106
+511233639,Município da Calheta,5771610,60
+502946679,"COMPETIR - Formação e Serviços, SA",5726558,158
+512044040,Município de Angra do Heroísmo,5618951,55
+506632938,Município de Paredes de Coura,5617103,86
+506963837,Município da Sertã,5582900,123
+505311313,Município de Odemira,5577395,155
+506852032,Município de Sernancelhe,5576965,149
+506538575,Município de São João da Madeira,5527637,118
+501121030,Município de Idanha-a-Nova,5411043,85
+501306234,Município de Oliveira de Frades,5393270,77
+517839539,"Instituto para os Comportamentos Aditivos e as Dependências, IP",5389630,107
+516844156,CTI Aeroespacial (Associação),5383849,36
+680015973,SMAS TORRES VEDRAS,5377167,49
+506829138,Município de Santa Marta de Penaguião,5331276,70
+506833224,Município de Vila Real de Santo António,5324380,157
+506859487,Município de Alijó,5322672,99
+508771935,Comunidade Intermunicipal da Região de Aveiro,5281691,39
+506833232,Município de Arganil,5269104,76
+501272968,Município de Elvas,5264667,178
+600027350,Instituto Politécnico de Coimbra,5257255,138
+501208950,"APS - Administração dos Portos de Sines e do Algarve, SA",5196923,24
+506829197,Município de Vila Nova de Foz Côa,5193413,93
+506753905,Município de Tarouca,5153259,68
 511109326,"O LAR D'AJUDA,LAR E CENTRO DE DIA SOCIEDADE UNIPESSOAL,LDA.",5118000,2
-508771935,Comunidade Intermunicipal da Região de Aveiro,5088571,37
-505311313,Município de Odemira,5084471,140
-600027350,Instituto Politécnico de Coimbra,5015959,119
-506829197,Município de Vila Nova de Foz Côa,5005969,85
-501272976,Município de Montemor-o-Velho,4981938,88
+501403906,Instituto Politécnico de Santarém,5115300,96
+506822680,Município de Tondela,5052464,70
+502017368,Autoridade Nacional de Comunicações,5032596,393
+512013241,Município da Ribeira Grande,5012649,134
+502704977,Município de Sever do Vouga,5006411,67
+506693651,Município de Cinfães,5002023,83
+506566307,"AC, Águas de Coimbra, EM",5001446,126
+505246473,"STCP Serviços - Transportes Urbanos, Consultoria e Participações, Unipessoal, Lda",4956734,15
+505993082,"Vimágua, Empresa de Água e Saneamento de Guimarães e Vizela, EIM SA",4934266,64
+506735524,Município de Vale de Cambra,4932602,84
+506625419,Município de Almeida,4916655,87
 500728348,"Valpi Bus - Alberto Pinto &amp; Filhos Transportes Rodoviários, SA",4913950,2
-506829138,Município de Santa Marta de Penaguião,4910744,63
 516524240,"Expressdiagram - Transportes Rodoviários, L.da",4885950,2
-501403906,Instituto Politécnico de Santarém,4855511,91
-680015973,SMAS TORRES VEDRAS,4849534,44
-506753905,Município de Tarouca,4847159,56
-502704977,Município de Sever do Vouga,4807842,60
-511137753,"APRAM - Administração dos Portos da Região Autónoma da Madeira, SA",4765719,34
-502256869,Administração do Porto de Setúbal,4732103,32
-501208950,"APS - Administração dos Portos de Sines e do Algarve, SA",4723299,22
-503271055,"Banco Português de Fomento, SA",4604538,71
-506833224,Município de Vila Real de Santo António,4599740,138
-600085740,"Secretaria Regional do Turismo, Mobilidade e Infraestruturas",4592313,5
-502237490,"Instituto Nacional de Estatística, IP",4589598,51
-600037002,"INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, IP",4583241,35
-501390642,"Casa Pia de Lisboa, IP",4573805,165
-502017368,Autoridade Nacional de Comunicações,4555420,363
-506735524,Município de Vale de Cambra,4547125,76
-517839539,"Instituto para os Comportamentos Aditivos e as Dependências, IP",4527020,98
-501143718,Município de Portalegre,4519921,128
-500292566,"União Transportes Carvalhos, Lda.",4514870,2
-501814957,INEGI - Instituto de Engenharia Mecânica e Gestão Industrial,4503869,121
-600087247,Serviços Municipalizados de Águas e Saneamento de Mafra - SMAS de Mafra,4498020,51
+501273433,Município de Almeirim,4880262,100
+511239440,Município de Machico,4878285,125
+506806944,Município de Tábua,4875153,82
+506738914,Município de Tomar,4849914,111
+501390642,"Casa Pia de Lisboa, IP",4830304,177
+506834166,Município de Nelas,4827950,145
+506091481,"INOVA, Empresa de Desenvolvimento Económico e Social de Cantanhede, EM-SA",4793770,77
+501510184,ISCTE - Instituto Universitário de Lisboa,4776164,335
+502106506,Comunidade Intermunicipal do Médio Tejo,4772308,56
+680015124,"SERVIÇOS MUNICIPALIZADOS DE ELECTRICIDADE, ÁGUA E SANEAMENTO DA MAIA",4721182,51
+600037002,"INFARMED - Autoridade Nacional do Medicamento e Produtos de Saúde, IP",4719063,40
+600087247,Serviços Municipalizados de Águas e Saneamento de Mafra - SMAS de Mafra,4710417,56
+503271055,"Banco Português de Fomento, SA",4634367,73
+501814957,INEGI - Instituto de Engenharia Mecânica e Gestão Industrial,4631424,127
+501135960,Município de Castro Verde,4569466,127
+508787033,Comunidade Intermunicipal da Lezíria do Tejo,4550499,52
+510474314,"Instituto de Segurança Social da Madeira, IP-RAM",4521302,20
+506788490,Município de Alcochete,4516672,201
+502150319,Município de Alcácer do Sal,4516114,99
+500292566,"União Transportes Carvalhos, L.da",4514870,2
+509584888,"Vitrus Ambiente, EM, SA",4513802,51
+503494933,Instituto Politécnico do Cávado e do Ave,4510507,78
+510148921,Unidade de Saúde da Ilha de São Miguel,4503113,137
+501177256,Município de Vendas Novas,4490637,100
+501305734,Município de Alenquer,4463141,62
 511230010,Associação Casa do Voluntário,4462346,8
-508787033,Comunidade Intermunicipal da Lezíria do Tejo,4444553,50
-501272968,Município de Elvas,4428667,153
-503494933,Instituto Politécnico do Cávado e do Ave,4423323,73
-512013241,Município da Ribeira Grande,4417645,123
-501510184,ISCTE - Instituto Universitário de Lisboa,4413944,317
-502978481,Fundação Alentejo,4373638,23
-511239440,Município de Machico,4363263,116
-506091481,"INOVA, Empresa de Desenvolvimento Económico e Social de Cantanhede, EM-SA",4362865,69
-600085864,Direção Regional das Pescas,4344076,38
-510474314,"Instituto de Segurança Social da Madeira, IP-RAM",4340597,17
-506806944,Município de Tábua,4334549,78
-600082563,Autoridade Nacional de Segurança Rodoviária,4323899,45
-501389660,"Laboratório Nacional de Engenharia Civil, IP",4322838,72
-506892646,Município de São João da Pesqueira,4322501,120
-501177256,MUNICÍPIO DE VENDAS NOVAS,4306010,88
-502106506,Comunidade Intermunicipal do Médio Tejo,4291598,48
-509584888,"Vitrus Ambiente, EM, SA",4291381,45
-506693651,Município de Cinfães,4279544,64
-510148921,Unidade de Saúde da Ilha de São Miguel,4242069,101
-506788490,MUNICÍPIO DE ALCOCHETE,4239210,185
-516844156,CTI Aeroespacial (Associação),4210738,35
-506780902,Município do Cartaxo,4203562,82
-506738914,Município de Tomar,4192157,94
-502150319,Município de Alcácer do Sal,4184704,79
-506833232,Município de Arganil,4148981,64
-503606251,INSTITUTO POLITÉCNICO DO PORTO,4125254,295
-506849635,Município de Celorico da Beira,4108065,36
+501121528,Município da Lousã,4452331,121
+500927731,Instituto São João de Deus,4447648,53
+506608972,Município de Torres Novas,4444375,195
+506892646,Município de São João da Pesqueira,4440325,127
+502978481,Fundação Alentejo,4433454,26
+508354617,Comunidade Intermunicipal da Região de Coimbra,4393090,76
+506806898,Município de Miranda do Douro,4373541,79
+501143726,Município de Trancoso,4327172,102
+507103742,Município de Soure,4310139,76
+505592940,Município de Melgaço,4299687,92
+507012100,Município da Nazaré,4283643,158
+506510476,Município de Gouveia,4281053,82
+506886964,Município de Boticas,4278270,62
+500960950,Serviços Sociais da Polícia de Segurança Pública,4277334,16
+506792382,Município da Mealhada,4274519,119
+503606251,Universidade Técnica do Porto,4270114,310
+507040589,Município de Reguengos de Monsaraz,4257071,145
+900220538,Centro Formação Profissional Indústria de Cortiça,4253981,35
+680017763,Serviços Municipalizados de Água e Saneamento de Almada,4188396,67
+506849635,Município de Celorico da Beira,4150114,40
+516160893,"Águas do Alto Alentejo, EIM, SA",4141772,59
+506676056,Município de Benavente,4135258,83
+506659682,Município de Vieira do Minho,4120926,132
 502536071,"EVA-Transportes,SA",4101640,4
-506566307,"AC, Águas de Coimbra, EM",4085330,111
-501135960,Município de Castro Verde,4081750,115
-501143726,Município de Trancoso,4058737,89
-516160893,"Águas do Alto Alentejo, EIM, SA",4046839,54
-501305734,Município de Alenquer,4044112,55
-508035546,Comunidade Intermunicipal da Região de Leiria,3940383,23
+501294163,Município de Anadia,4099155,121
+501121536,Município de Torre de Moncorvo,4042343,154
+508203970,"Instituto Nacional de Medicina Legal, I.P.",4017394,87
+508035546,Comunidade Intermunicipal da Região de Leiria,3996426,26
+515515507,"APIN EIM, SA",3989973,83
+515684473,"Águas do Interior - Norte, EIM, SA",3974372,36
+506826546,Município de Constância,3963807,68
+517713233,"Comissão de Coordenação e Desenvolvimento Regional do Norte, IP",3921517,66
 500851697,Centro Paroquial de Seia,3920150,3
-900220538,Centro Formação Profissional Indústria de Cortiça,3916701,31
-516155636,ASSOCIAÇÃO ISCTE CONHECIMENTO E INOVAÇÃO - CENTRO DE VALORIZAÇÃO E TRANSFERÊNCIA DE TECNOLOGIA,3892972,37
-506659682,Município de Vieira do Minho,3879698,112
+512073821,Município da Horta,3917950,81
+506612287,Município de Nisa,3900859,89
+516155636,ASSOCIAÇÃO ISCTE CONHECIMENTO E INOVAÇÃO - CENTRO DE VALORIZAÇÃO E TRANSFERÊNCIA DE TECNOLOGIA,3892971,37
+511015356,Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira,3882868,7
+506824152,Município de Oleiros,3877751,69
 508195390,"Ren Serviços, S.A",3870391,2
-511015356,Associação Comercial e Industrial do Funchal - Câmara de Comércio e Indústria da Madeira,3864869,6
-505993082,"Vimágua, Empresa de Água e Saneamento de Guimarães e Vizela, EIM SA",3852574,55
-506510476,Município de Gouveia,3842172,76
-506854299,Município de Baião,3805163,84
-507012100,Município da Nazaré,3795973,145
-506806898,Município de Miranda do Douro,3767008,69
-501873406,Irmandade da Santa Casa da Misericórdia de São João da Pesqueira,3755987,2
-506632938,Município de Paredes de Coura,3747365,78
-506625419,Município de Almeida,3745472,67
-501431535,Porto de Aveiro,3740869,15
-600084965,Direção-Geral do Território,3727529,37
-506834166,Município de Nelas,3723736,129
-505592940,Município de Melgaço,3719740,74
-506642798,Município de Vila Velha de Ródão,3719349,111
-507682734,"CENTITVC - Centro de Nanotecnologia e Materiais Técnicos, Funcionais e Inteligentes",3688160,126
-501121536,Município de Torre de Moncorvo,3683294,142
-501433813,Serviços Sociais da GNR,3672731,60
-503152544,"ESTAMO - Participações Imobiliárias, SA",3663071,27
-508203970,"Instituto Nacional de Medicina Legal, I.P.",3651806,66
-510878393,Freguesia de Parque das Nações,3646424,242
-501294163,Município de Anadia,3642874,105
-505120151,"Feira Viva - Cultura e Desporto, EM",3633684,365
-505203731,Freguesia de São Domingos de Benfica,3625834,190
-512044023,Município da Praia da Vitória,3600840,52
-506608972,Município de Torres Novas,3599542,142
-506824152,Município de Oleiros,3569375,57
-505600005,"Águas de Santo André, SA",3564838,27
-501965750,Cindor - Formação Profissional Indústria Ourivesaria e Relojoaria,3548216,23
-600087522,Direção Regional da Educação e Administração Educativa,3542583,15
-512074410,Município de Lagoa (Açores),3519254,155
-517713233,"Comissão de Coordenação e Desenvolvimento Regional do Norte, IP",3506761,58
-503589780,"Cascais Dinâmica - Gestão de Economia, Turismo e Empreendorismo, EM, SA",3505549,43
-506349381,Município de Resende,3501797,73
-515515507,"APIN EIM, SA",3479299,73
-510762980,Serviço de Ação Social,3475653,73
-680015124,"SERVIÇOS MUNICIPALIZADOS DE ELECTRICIDADE, ÁGUA E SANEAMENTO DA MAIA",3464191,44
-506826546,Município de Constância,3438443,62
-511233620,Município de Câmara de Lobos,3436460,51
-508817897,"Turismo do Alentejo, ERT",3436279,67
-502488603,Instituto Superior de Economia e Gestão,3406333,53
-502130040,Município de Santiago do Cacém,3389553,117
-506612287,Município de Nisa,3372730,85
-680017763,Serviços Municipalizados de Água e Saneamento de Almada,3372274,57
-512073821,Município da Horta,3353575,61
-506852032,Município de Sernancelhe,3351998,139
-506812820,Município de Peniche,3350966,74
-500960950,Serviços Sociais da Polícia de Segurança Pública,3350522,7
-510322506,"Camões - Instituto da Cooperação e da Língua, IP",3350243,38
-502077352,Centro de Formação Profissional da Industria Metalúrgica e Metalomecânica (CENFIM),3343971,91
-506886964,Município de Boticas,3338791,57
-501081216,Município de Barrancos,3335263,49
-506657957,Município de Penacova,3313203,112
-508519713,Instituto Politécnico de Lisboa,3300919,69
-502227842,"Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso, SA",3288817,56
-504815393,"Partner-hotel - Formação, Consultoria e Projetos para Serviços Hoteleiros, Lda",3275380,81
-506730573,MUNICÍPIO DE VILA DO BISPO,3267004,36
+501433813,Serviços Sociais da GNR,3856600,63
+506657957,Município de Penacova,3843214,129
+505120151,"Feira Viva - Cultura e Desporto, EM",3832050,377
+501290206,Município da Batalha,3826094,93
+506642798,Município de Vila Velha de Ródão,3816570,121
+506349381,Município de Resende,3804529,83
+504895788,"Resialentejo, E.I.M.",3785741,52
+501873406,Irmandade da Santa Casa da Misericórdia de São João da Pesqueira,3755986,2
+501382356,Santa Casa da Misericórdia de Vila do Conde,3748124,25
+510878393,Freguesia de Parque das Nações,3746532,257
+514280956,"Empresa Municipal de Ambiente do Porto, EM, SA",3744177,33
+504288806,Autoridade Nacional da Aviação Civil,3741142,42
+508188423,"Administração Central do Sistema de Saúde, IP",3713306,46
+512044023,Município da Praia da Vitória,3709868,55
+506912833,Município de Vagos,3709040,84
+508817897,"Turismo do Alentejo, ERT",3697532,82
+506801969,Município de Castro Marim,3696582,125
+507682734,"CENTITVC - Centro de Nanotecnologia e Materiais Técnicos, Funcionais e Inteligentes",3688159,126
+502488603,Instituto Superior de Economia e Gestão,3684551,63
+505203731,Freguesia de São Domingos de Benfica,3677286,195
+506829260,Município de Peso da Régua,3668313,76
+503152544,"ESTAMO - Participações Imobiliárias, SA",3663070,27
+506724530,Município de Mira,3630803,78
+501965750,Cindor - Formação Profissional Indústria Ourivesaria e Relojoaria,3627400,26
+502227842,"Empreendimentos Hidroeléctricos do Alto Tâmega e Barroso, SA",3624401,62
+506770664,Município de Vouzela,3618738,100
+510322506,"Camões - Instituto da Cooperação e da Língua, IP",3563427,49
+512074410,Município de Lagoa (Açores),3550929,159
+503589780,"Cascais Dinâmica - Gestão de Economia, Turismo e Empreendorismo, EM, SA",3528543,45
+506772446,Município de Alcoutim,3517403,65
+506812820,Município de Peniche,3479971,82
+501081216,Município de Barrancos,3455962,50
+502237490,"Instituto Nacional de Estatística, IP",3455229,48
+502077352,Centro de Formação Profissional da Industria Metalúrgica e Metalomecânica (CENFIM),3451274,94
+506730573,Município de Vila do Bispo,3444436,43
+508519713,Instituto Politécnico de Lisboa,3441510,75
+509680780,AMBIOLHÃO - EMPRESA MUNICIPAL,3427482,40
+504815393,"Partner-hotel - Formação, Consultoria e Projetos para Serviços Hoteleiros, Lda",3425379,84
+600037100,Direção-Geral da Saúde,3407137,221
+600084965,Direção-Geral do Território,3363114,39
+508180457,OPART-ORGANISMO DE PRODUÇÃO,3341514,119
+506862763,Município de Murça,3325435,92
+509020690,Comunidade Intermunicipal do Alto Alentejo,3319135,52
+671001299,Secretaria Regional de Agricultura e Pescas,3317833,29
+512021155,"Instituto de Alimentação e Mercados Agrícolas, IP R. A.",3313381,56
+503761877,Instituto Politécnico de Viana do Castelo,3311131,124
+600087590,Estrutura de Missão Recuperar Portugal,3292061,34
+501389660,"Laboratório Nacional de Engenharia Civil, IP",3276353,77
 506896625,Município de Vila Nova de Cerveira,3265747,65
-508354617,Comunidade Intermunicipal da Região de Coimbra,3259928,66
-507040589,Município de Reguengos de Monsaraz,3251645,136
-509680780,AMBIOLHÃO - EMPRESA MUNICIPAL,3242862,37
-512021155,"Instituto de Alimentação e Mercados Agrícolas, IP R. A.",3218581,52
-600017613,Secretaria-Geral do Ministério da Justiça,3196990,18
-506862763,Município de Murça,3164691,84
-600087590,Estrutura de Missão Recuperar Portugal,3148239,30
-504773968,Associação Promotora de Ensino Profissional da Cova da Beira,3146994,11
-506912833,Município de Vagos,3146205,75
-503767549,Instituto Politécnico de Tomar,3125822,74
-501082522,Universidade Católica Portuguesa,3118005,70
-671001299,Secretaria Regional de Agricultura e Pescas,3113787,24
-506801969,Município de Castro Marim,3086143,93
-506772446,Municipio de Alcoutim,3075669,59
-501603409,Cinemateca Portuguesa - Museu Do Cinema,3064216,63
-506829260,Município do Peso da Régua,3062459,67
-503761877,Instituto Politécnico de Viana do Castelo,3054134,121
-504915266,"Inframoura, E.M.",3015848,32
-507103742,Município de Soure,3012276,66
-680019600,Serviços Municipalizados de Peniche,3011806,42
-600086968,Instituto das Florestas e Conservação da Natureza,3006152,26
-506556590,Município de Estremoz,2995373,74
-505060868,"Maiambiente, EM",2991769,35
-512074143,Município das Lajes do Pico,2976384,49
-505542331,"Resíduos do Nordeste, EIM, SA",2955066,13
-501936521,Centro Social e Paroquial de Fonte Arcada,2951335,3
-508184258,Instituto Registos Notariado,2949458,29
-506859487,Município de Alijó,2940726,90
-501290206,Município da Batalha,2939786,80
-600038106,Serviço de Ação Social da Universidade de Coimbra,2938108,97
-503219924,Município de São Brás de Alportel,2919989,109
-506724530,Município de Mira,2914924,72
-506605949,Município de Alvaiázere,2912084,63
-500745773,Município de Alcanena,2909033,61
-502789824,Município de Avis,2906892,76
-515684473,"Águas do Interior - Norte, EIM, SA",2900906,31
-671000527,"Secretaria Regional de Turismo, Ambiente e Cultura",2897658,52
-508180457,"OPART - Organismo de Produção Artística, EPE",2891902,90
-503966908,"Teatro Nacional São João,E.P.E.",2887722,158
-514247517,"Instituto de Proteção e Assistência na Doença, IP",2859168,55
+518013588,Associação Évora 2027,3265282,55
+506556590,Município de Estremoz,3255067,82
+507236335,"Taviraverde - Empresa Municipal de Ambiente, EM",3249813,65
+600017613,Secretaria-Geral do Ministério da Justiça,3248946,19
+508047790,Comunidade Intermunicipal Viseu Dão Lafões,3231095,62
+506605949,Município de Alvaiázere,3226079,71
+503966908,"Teatro Nacional São João,E.P.E.",3197905,166
+508184258,Instituto Registos Notariado,3186690,36
+600038106,Serviço de Ação Social da Universidade de Coimbra,3186383,104
+680019600,Serviços Municipalizados de Peniche,3173878,45
+506818829,Município de Oliveira do Hospital,3169572,70
+503767549,Instituto Politécnico de Tomar,3157704,78
+600086968,Instituto das Florestas e Conservação da Natureza,3141670,28
+501082522,Universidade Católica Portuguesa,3118004,70
+504915266,"Inframoura, E.M.",3107883,35
+504807684,"TUB - Transportes Urbanos de Braga, EM",3102051,35
+502789824,Município de Avis,3087554,84
+506647498,Município de Alfândega da Fé,3080540,67
+506874915,"GIATUL - Atividades Lúdicas, Infraestruturas e Rodovias, EM, SA",3064620,28
+506884937,Município de Freixo de Espada à Cinta,3045981,105
+503219924,Município de São Brás de Alportel,3033273,116
+505932512,Município de Aljezur,3032101,62
+506666018,Município de Carrazeda de Ansiães,3028064,130
+506613399,Município de Góis,3017747,54
+501328599,Autoridade de Supervisão de Seguros e Fundos de Pensões,2998874,41
+511239980,Município de Santana,2995192,48
+506811883,Município de Pampilhosa da Serra,2993707,64
+507068076,"EAmb - Esposende Ambiente, EM",2974975,5
+506731324,Município de Castanheira de Pera,2965779,60
+505676770,Município de Ponte da Barca,2962686,55
+506755150,Município de Salvaterra de Magos,2960614,84
+501936521,Centro Social e Paroquial de Fonte Arcada,2951334,3
+505060868,"Maiambiente, EM",2947501,37
+507253639,"ETPM - Escola Técnica e Profissional de Mafra, SA",2932692,7
+514247517,"Instituto de Proteção e Assistência na Doença, IP",2919364,59
+500745773,Município de Alcanena,2915819,62
+501305564,Município da Chamusca,2907706,93
+501227490,Município de Ferreira do Alentejo,2895937,73
+506843190,Município de Armamar,2892971,72
+504190407,Ordem dos Enfermeiros,2888120,56
+506601455,Município de Tabuaço,2876026,93
+512074143,Município das Lajes do Pico,2859884,50
 515769053,I3S - INSTITUTO DE INVESTIGAÇÃO E INOVAÇÃO EM,2857296,17
-514280956,"Empresa Municipal de Ambiente do Porto, EM, SA",2837623,29
-504288806,Autoridade Nacional da Aviação Civil,2830242,34
-508047790,Comunidade Intermunicipal Viseu Dão Lafões,2826890,57
-504895788,"Resialentejo, E.I.M.",2825913,43
-506884937,Município de Freixo de Espada à Cinta,2824852,96
-506770664,Município de Vouzela,2776964,84
-506676056,Município de Benavente,2773021,68
-505869721,Instituto Superior de Agronomia,2765409,61
-507253639,"ETPM - Escola Técnica e Profissional de Mafra, SA",2758253,5
+501112049,Município de Serpa,2854541,117
+506826961,Município de Monchique,2851167,74
+502618418,Faculdade de Ciências,2843969,48
+600023265,Instituto Politécnico da Guarda,2832065,79
+506800580,Município do Bombarral,2825500,76
+600087484,Direção Regional das Comunicações e da Transição Digital,2814340,16
+505377802,Município de Proença-a-Nova,2812622,80
+517638754,"Comissão de Coordenação e Desenvolvimento Regional do Centro, IP",2810848,68
+680001069,Serviços Municipalizados das Caldas da Rainha,2809365,29
+506932273,Município de Vila de Rei,2807560,76
+504538314,"Cascais Envolvente - Gestão Social da Habitação, EM, SA",2774533,59
+506605930,Município de Ansião,2756551,77
+505869721,Instituto Superior de Agronomia,2749511,63
+600087549,"Secretaria Regional da Juventude, Habitação e Emprego",2746727,13
+510857043,Freguesia de Santa Maria Maior (Lisboa),2740337,215
 516517902,"Rodonorte Castelo Branco, Unipessoal Lda.",2737450,5
-517638754,"Comissão de Coordenação e Desenvolvimento Regional do Centro, IP",2718249,62
-506601455,Município de Tabuaço,2717051,88
+501692983,"EDM - Empresa de Desenvolvimento Mineiro, SA",2735193,27
+501603409,Cinemateca Portuguesa - Museu Do Cinema,2723707,66
+510055710,"PACT - Parque do Alentejo de Ciência e Tecnologia, SA",2709563,15
+506602222,Freguesia de Benfica,2706585,159
 505506149,"ETPR - Escola Técnica e Profissional do Ribatejo, SA",2701579,8
-507068076,"EAmb - Esposende Ambiente, EM",2698273,2
-506826961,Município de Monchique,2687402,66
-600037100,Direção-Geral da Saúde,2683066,189
-510055710,"PACT - Parque do Alentejo de Ciência e Tecnologia, SA",2675064,14
-505932512,Município de Aljezur,2665674,54
-504190407,Ordem dos Enfermeiros,2653835,53
-504538314,"Cascais Envolvente - Gestão Social da Habitação, EM, SA",2649606,53
-504443127,"Coopetape - Cooperativa de Ensino, CRL",2640023,25
-505377802,Município de Proença-a-Nova,2620471,72
-600087484,Direção Regional das Comunicações e da Transição Digital,2619050,13
-501305564,Município da Chamusca,2616379,83
-513754490,Associação Atalaia Living Care,2608371,30
-680001069,Serviços Municipalizados das Caldas da Rainha,2605191,27
+505763621,Município do Cadaval,2698566,68
+506840328,Município de Mesão Frio,2686292,55
+508779200,Comunidade Intermunicipal do Douro,2685071,56
+600082440,Direção-Geral de Agricultura e Desenvolvimento Rural,2683661,86
+504443127,"Coopetape - Cooperativa de Ensino, CRL",2672523,28
+506624200,Município de Miranda do Corvo,2640560,83
+508310350,Escola Superior de Enfermagem de Lisboa,2639889,46
+505600005,"Águas de Santo André, SA",2637772,26
+506876330,Município de Ourique,2627210,69
+504871650,"ECOLEZIRIA-Tratamento Resíduos Sólidos, E.I.M.",2612012,25
+513754490,Associação Atalaia Living Care,2608370,30
+510832890,Freguesia de Arroios (Lisboa),2607939,141
 504660632,"Escola Profissional Novos Horizontes, Lda",2601930,6
-502618418,Faculdade de Ciências,2600995,43
-506811883,Município de Pampilhosa da Serra,2597920,56
-504807684,"TUB - Transportes Urbanos de Braga, EM",2596095,32
-510832890,Freguesia de Arroios (Lisboa),2560557,137
-504871650,"ECOLEZIRIA-Tratamento Resíduos Sólidos, E.I.M.",2555512,24
-506602222,Freguesia de Benfica,2514787,142
-505676770,Município de Ponte da Barca,2514063,45
-504667521,"FESNIMA, Empresa Municipal de Olhão, EM",2508756,39
-507236335,"Taviraverde - Empresa Municipal de Ambiente, EM",2507034,56
-506613399,Município de Góis,2504015,40
-508310350,Escola Superior de Enfermagem de Lisboa,2498385,39
-501155996,Município de Arronches,2483428,74
-505592959,Município de Fornos de Algodres,2481379,70
-600088081,Estrutura de Missão para o Licenciamento de Projetos de Energias Renováveis 2030,2479968,9
-600079554,"Agrupamento de Escolas de Paço de Arcos, Oeiras",2461068,12
-501112049,Município de Serpa,2460226,101
-600087549,"Secretaria Regional da Juventude, Habitação e Emprego",2452955,12
-506882713,Município de Sátão,2440375,60
-600023265,INSTITUTO POLITÉCNICO DA GUARDA,2439609,74
-506818829,Município de Oliveira do Hospital,2436242,63
-507636295,Fundação Casa da Música,2417977,128
-501121528,Município da Lousã,2410176,111
-501328599,Autoridade de Supervisão de Seguros e Fundos de Pensões,2401736,39
+505592959,Município de Fornos de Algodres,2584654,72
+600084892,"DIREC GERAL LIVRO,ARQUIVOS",2572857,42
+504667521,"FESNIMA, Empresa Municipal de Olhão, EM",2572765,41
+506882713,Município de Sátão,2567177,68
+506816184,Município de Almodôvar,2557740,112
+504719670,"Parques Tejo, EM",2555407,30
+510762980,Serviço de Ação Social,2552160,55
+600000869,Secretaria-Geral da Presidência da República,2531669,76
+506659968,Município do Crato,2512686,75
+503956546,Município de Borba,2507254,40
+501058834,"Teatro Nacional D. Maria II, EPE",2501368,37
+600088081,Estrutura de Missão para o Licenciamento de Projetos de Energias Renováveis 2030,2499767,10
+600079554,"Agrupamento de Escolas de Paço de Arcos, Oeiras",2461067,12
+507636295,Fundação Casa da Música,2427976,129
+502843918,Centro Social da Paróquia de Polvoreira,2425504,5
+680033548,Instituto Politécnico de Viseu,2421058,63
+504597221,"MatosinhosHabit-MH, Empresa Municipal de Habitação de Matosinhos",2413996,52
+506855368,Município de Mortágua,2405114,80
 500567140,ANTONIO PRAZERES SILVA &amp; FO LDA,2390537,2
-506840328,Município de Mesão Frio,2376769,52
-510786839,"Instituto de avaliação educativa, I,P,",2376273,3
-502286326,Faculdade de Medicina Veterinária,2369844,44
+505161974,Município de Mêda,2390177,60
+502286326,Faculdade de Medicina Veterinária,2386208,46
+510786839,"Instituto de Avaliação Educativa, I.P.",2376272,3
+505462583,ESPAÇO MUNICIPAL RENOVAÇÃO URBANA E GESTÃO DO PATRIMÓNIO,2367991,65
 508792657,CIIMAR - Centro Interdisciplinar de Investigação Marinha e Ambiental,2366252,27
-506755150,Município de Salvaterra de Magos,2361474,74
-510857043,Freguesia de Santa Maria Maior (Lisboa),2349726,201
+506696464,Município de Vila Flor,2359247,58
 600085937,"Agrupamento de Escolas D. Dinis, Lisboa",2345156,1
-600000869,Secretaria-Geral da Presidência da República,2337374,68
-503720364,Instituto Politécnico de Setúbal,2335809,64
-506843190,Município de Armamar,2333653,61
-506855368,Município de Mortágua,2331861,76
-506605930,Município de Ansião,2331667,61
-506822680,Municipio de Tondela,2328079,55
-505207117,Freguesia de Carnide (Lisboa),2312316,109
-506800580,Município do Bombarral,2297585,71
-600082440,Direção-Geral de Agricultura e Desenvolvimento Rural,2291827,78
-501058834,"Teatro Nacional D. Maria II, EPE",2289188,30
+501295097,União das Misericórdias Portuguesas,2342715,13
+600082628,Serviços Sociais da Administração Pública,2340949,59
+506197760,Centro de Ciências do Mar do Algarve,2339083,28
+504791834,CRPG - Centro de Reabilitação Profissional,2332860,48
+503720364,Instituto Politécnico de Setúbal,2331165,65
+505207117,Freguesia de Carnide (Lisboa),2323015,110
+680017640,Aguas de Castelo Branco,2318000,46
+502110660,Universidade Aberta,2313217,53
+506609553,Município de Montemor-o-Novo,2310543,81
+505351064,"Oeiras Viva - Gestão de Equipamentos Culturais e Desportivos, EM",2304712,38
+600085864,Direção Regional das Pescas,2285882,22
 501409084,Santa Casa da Misericórdia da Póvoa de Lanhoso,2275214,10
-600082628,Serviços Sociais da Administração Pública,2275003,55
-506932273,Município de Vila de Rei,2268128,63
+500463964,"Faz Cultura - Empresa Municipal de Cultura de Braga, EM",2271686,121
+513919015,Associação CNCA - Centro Nacional de Computação Avançada,2264046,4
+600081966,Pessoas 2030,2259491,27
+501133097,Município de Alpiarça,2254837,54
+501176080,"Instituto dos Vinhos do Douro e do Porto, IP",2251477,77
 517478579,"Rodoviária do Lis II, Unipessoal, Lda.",2250000,1
-504791834,CRPG - Centro de Reabilitação Profissional,2245805,46
-680033548,Instituto Politécnico de Viseu,2234548,53
-600084892,"DIREC GERAL LIVRO,ARQUIVOS",2233920,37
-505161974,Município de Mêda,2226355,55
-506624200,Município de Miranda do Corvo,2223511,76
-508424780,"Laboratório Nacional de Energia e Geologia, IP",2216531,41
-680047360,Serviços de Ação Social da Universidade do Minho,2209540,106
-505462583,ESPAÇO MUNICIPAL RENOVAÇÃO URBANA E GESTÃO DO PATRIMÓNIO,2199967,55
-504597221,"MatosinhosHabit-MH, Empresa Municipal de Habitação de Matosinhos",2195009,47
-504719670,"Parques Tejo, EM",2182939,27
-680017640,Aguas de Castelo Branco,2175925,41
-518013588,Associação Évora 2027,2168347,44
-501516980,BIBLIOTECA NACIONAL,2162772,12
-512074771,Município de São Roque do Pico,2157463,30
-501273433,Município de Almeirim,2143030,82
-680015965,Serviços Municipalizados de Transportes Urbanos de Coimbra,2136768,43
-506792382,Município de Mealhada,2134455,85
-502110660,Universidade Aberta,2124418,51
-510957544,Comunidade Intermunicipal das Terras de Trás-os-Montes,2118988,32
-600067998,Escola Prof.Agricultura Desenv.o Rural de Vagos,2116340,30
-508114381,"AS - Empresa das Águas de Santarém, EM, SA",2115830,59
-511236417,Município da Ribeira Brava,2108808,44
-506696464,Município de Vila Flor,2098650,45
-680012907,Serviços Municipalizados de Viana do Castelo,2084132,36
-501176080,"Instituto dos Vinhos do Douro e do Porto, IP",2069139,67
-501135618,Santa Casa da Misericórdia de São Vicente da Beira,2065000,1
+510957544,Comunidade Intermunicipal das Terras de Trás-os-Montes,2246289,36
+511240112,Município de São Vicente,2244749,25
+501516980,BIBLIOTECA NACIONAL,2244256,19
+503730947,"BRAVAL - Valorização e Tratamento de Resíduos Sólidos, SA",2236244,54
+511236417,Município da Ribeira Brava,2222182,49
+600087581,Laboratório Nacional do Medicamento,2220237,249
+512074771,Município de São Roque do Pico,2216012,31
+506197174,"MS - Matosinhos Sport - Empresa Municipal de Gestão e Equipamentos Desportivos e de Lazer, EM",2208455,48
+501162941,Município de Fronteira,2206499,33
+501155996,Município de Arronches,2197092,74
+518522458,"Transportes Metropolitanos do Porto, E.M.T., S.A",2195209,27
+511235461,Município da Ponta do Sol,2165198,60
+600056120,Gabinete Nacional de Segurança,2156785,32
+501373357,"IAPMEI - Agência para a Competitividade e Inovação, IP",2145941,36
+680015965,Serviços Municipalizados de Transportes Urbanos de Coimbra,2144080,44
+514107405,"Startup Portugal - Associação Portuguesa para a Promoção do Empreendedorismo, SPAPPE",2140113,39
+600067998,Escola Prof.Agricultura Desenv.o Rural de Vagos,2136587,32
+680047360,Serviços de Ação Social da Universidade do Minho,2133958,101
+680012907,Serviços Municipalizados de Viana do Castelo,2129935,39
+506866432,"Porto Vivo, SRU - Sociedade de Reabilitação Urbana do Porto, EM, SA",2125878,34
+503083690,APP - Associação dos Portos de Portugal,2102000,2
+506695956,Município de Belmonte,2096765,31
+672001721,SMAS PDL,2086799,24
+506809560,Município de Sousel,2079510,105
+512028273,Serviço Regional de Proteção Civil e Bombeiros dos Açores,2070210,6
+501135618,Santa Casa da Misericórdia de São Vicente da Beira,2064999,1
+507142217,"FAGAR, Faro, Gestão de Água e Resíduos",2064928,38
+501462244,"ALTERNÂNCIA - Ensino e Formação Profissional, C. R. L.",2064119,25
 512018294,Lar D. Pedro V,2057489,2
-503083690,APP - Associação dos Portos de Portugal,2057000,1
+502530863,Pousada da Juventude de Beja,2045484,37
+510832806,Freguesia de Alvalade (Lisboa),2040592,52
+512103070,"Hospital da Horta, EPER",2040587,38
 500600546,"RDO Rodoviária do Oeste, Lda.",2040000,2
-506866432,"Porto Vivo, SRU - Sociedade de Reabilitação Urbana do Porto, EM, SA",2032306,30
-514107405,"Startup Portugal - Associação Portuguesa para a Promoção do Empreendedorismo, SPAPPE",2030814,35
-506809560,Município de Sousel,2017534,95
-501462244,"ALTERNÂNCIA - Ensino e Formação Profissional, C. R. L.",2016084,24
-501373357,"IAPMEI - Agência para a Competitividade e Inovação, IP",2012105,32
-505763621,Município do Cadaval,2005309,59
-600081966,Pessoas 2030,2005128,23
-506695956,Município de Belmonte,2001456,27
-600056120,Gabinete Nacional de Segurança,1999842,25
-506320120,"Agência para o Investimento e Comércio Externo de Portugal, EPE",1996633,40
-514187808,FCiências.ID - Associação para a Investigação e Desenvolvimento de Ciências,1991495,59
-501692983,"EDM - Empresa de Desenvolvimento Mineiro, SA",1963193,25
-501382356,Santa Casa da Misericórdia de Vila do Conde,1961330,8
-512028273,Serviço Regional de Protecção Civil e de Bombeiros dos Açores,1961190,4
-501143734,Município da Vidigueira,1955748,56
-507142217,"FAGAR, Faro, Gestão de Água e Resíduos",1948763,33
+501143734,Município da Vidigueira,2038646,62
+511278241,"GESBA - Empresa de Gestão do Sector da Banana, Lda",2033326,33
+501226320,Santa Casa da Misericórdia de Portimão,2009438,10
+506320120,"Agência para o Investimento e Comércio Externo de Portugal, EPE",2006068,41
+501403256,Santa Casa da Misericórdia de Fafe,2003829,16
+505023326,"Saber Saúde - Ensino, Formação e Serviços, Lda",2000000,58
+502266694,Comunidade Intermunicipal do Oeste,1998745,60
+514187808,FCiências.ID - Associação para a Investigação e Desenvolvimento de Ciências,1991494,59
+503797766,"EcoBeirão, Sociedade de Tratamento de Resíduos Sólidos do Planalto Beirão, EIM, SA",1988302,23
+506159540,"Viver Santarém, Desporto e Lazer, EM SA",1963166,136
+504649752,"Escola Profissional D. Mariana Seixas, Lda",1952765,6
+508754496,Comunidade Intermunicipal do Alto Minho,1948465,32
 517077744,"RMTEJO II - Transportes Rodoviários de Passageiros, Unipessoal Lda",1938236,2
-600028348,INSTITUTO POLITÉCNICO DE PORTALEGRE,1931754,49
-512042659,Município de Nordeste,1925517,25
-508754496,Comunidade Intermunicipal do Alto Minho,1923865,30
-504649752,"Escola Profissional D. Mariana Seixas, Lda",1905740,5
-505023326,"Saber Saúde - Ensino, Formação e Serviços, Lda",1890000,55
+512042659,Município de Nordeste,1936725,26
+508424780,"Laboratório Nacional de Energia e Geologia, IP",1925001,41
+511236425,Município do Porto Santo,1918939,18
+518530876,"Instituto de Mobilidade e Transportes, IP-RAM",1912825,30
+507330609,Freguesia de Marvila,1912718,67
+503157562,"MARL - Mercado Abastecedor da Região de Lisboa, SA",1896805,17
+503830704,"Infraquinta, E.M.",1889379,27
 501057609,Centro Social da Sé Catedral do Porto,1885964,2
-506816184,Município de Almodôvar,1875587,101
-506731324,Município de Castanheira de Pera,1875229,48
-500835454,Irmandade da Misericórdia de Paredes,1870570,1
-511278241,"GESBA - Empresa de Gestão do Sector da Banana, Lda",1864004,27
+514313420,CEFPI - Centro de Educação e Formação Profissional Integrada,1871047,54
+500835454,Irmandade da Misericórdia de Paredes,1870569,1
+501132872,Município de Alter do Chão,1865831,51
+680017542,Serviços Municipalizados de Abrantes,1863080,33
+506192164,Município de Penamacor,1860743,54
+600087689,Serviços Municipalizados de Águas e Saneamento do Município de Paredes,1858402,30
+501258027,Município de Arraiolos,1857454,99
 500269165,RESENDE-ACTIVIDADES TURISTICAS S.A.,1857225,2
-507330609,Freguesia de Marvila,1853009,64
-672001721,SMAS PDL,1852229,22
-506876330,Município de Ourique,1843644,58
-600077632,Agrupamento de Escolas de Vila Pouca de Aguiar - Sul,1838834,10
-500927731,Instituto São João de Deus,1836407,20
-518530876,"Instituto de Mobilidade e Transportes, IP-RAM",1835538,25
-508188423,"Administração Central do Sistema de Saúde, IP",1834552,42
-511240112,Município de São Vicente,1827875,20
-506809307,Município de Aguiar da Beira,1821796,63
-506874915,"GIATUL - Atividades Lúdicas, Infraestruturas e Rodovias, EM, SA",1818986,20
-503730947,"BRAVAL - Valorização e Tratamento de Resíduos Sólidos, SA",1814781,49
-512103070,"Hospital da Horta, EPER",1813575,34
-501132872,Município de Alter do Chão,1788638,47
-680017542,Serviços Municipalizados de Abrantes,1787275,35
+600028348,Instituto Politécnico de Portalegre,1843763,52
+506809307,Município de Aguiar da Beira,1843313,66
+600077632,Agrupamento de Escolas de Vila Pouca de Aguiar - Sul,1838833,10
+502736208,Faculdade de Direito da Universidade de Lisboa,1825964,25
+671000497,"Secretaria Regional de Educação, Ciência e Tecnologia",1822558,35
+509079911,"Serviço Regional de Proteção Civil, IP-RAM",1813006,40
+501378669,AIRC - Associação de Informática da Região Centro,1810021,51
+501501428,Irmandade de Santa Casa da Misericórdia de S. Miguel de Refojos,1807283,7
+504300156,Ciência Viva - Agência Nacional Para A Cultura Científica e Tecnológica,1803916,40
+503251178,"Colégio Dr. Luís Pereira da Costa, SA",1802614,8
+512099405,"IROA, S. A.",1800112,23
+506196445,Município de Portel,1795399,95
+504773968,Associação Promotora de Ensino Profissional da Cova da Beira,1786094,8
 509103979,"Regras &amp; Sugestões - Formação e Consultoria, L.da",1785000,36
-506666018,Município de Carrazeda de Ansiães,1784595,101
-509079911,"Serviço Regional de Proteção Civil, IP-RAM",1782520,38
-511236425,Município do Porto Santo,1782278,16
-501378669,AIRC - Associação de Informática da Região Centro,1776726,49
+501621288,Faculdade de Motricidade Humana,1783325,32
+506151174,Município de Viana do Alentejo,1782168,80
+501181768,Freguesia de Quarteira,1779412,77
+509871070,Unidade de Saúde da Ilha Graciosa,1778963,21
 600078906,"Agrupamento de Escolas Queluz-Belas, Sintra",1775002,14
-506192164,Município de Penamacor,1771375,51
-515194212,"AQUANENA - Empresa Municipal de Águas e Saneamento de Alcanena, EM, SA",1767635,60
-505351064,"Oeiras Viva - Gestão de Equipamentos Culturais e Desportivos, EM",1761668,31
-502530863,Pousada da Juventude de Beja,1760096,33
-506197174,"MS - Matosinhos Sport - Empresa Municipal de Gestão e Equipamentos Desportivos e de Lazer, EM",1746233,41
-508779200,Comunidade Intermunicipal do Douro,1738557,49
-509871070,Unidade de Saúde da Ilha Graciosa,1737007,19
+510856918,Freguesia de Estrela,1769549,90
+515194212,"AQUANENA - Empresa Municipal de Águas e Saneamento de Alcanena, EM, SA",1767634,60
+510833454,Freguesia da Penha de França,1760115,96
+600083349,Autoridade para as Condições do Trabalho,1754628,37
+512017050,Universidade dos Açores,1753102,104
+501206639,Município de Mourão,1748345,70
+500867640,Santa Casa da Misericórdia do Fundão,1747202,24
+505371600,Município de Vila Nova de Poiares,1745505,47
+506899250,Município de Vila Nova da Barquinha,1745084,47
+507207416,"Colégio Rainha D. Leonor, SA",1741243,7
 508808324,Entidade Regional de Turismo do Centro de Portugal,1735113,53
-502736208,Faculdade de Direito da Universidade de Lisboa,1721206,20
-506159540,"Viver Santarém, Desporto e Lazer, EM SA",1717657,117
-671000497,"Secretaria Regional de Educação, Ciência e Tecnologia",1716358,34
-502266694,Comunidade Intermunicipal do Oeste,1715572,53
-501258027,Município de Arraiolos,1701769,88
-503830704,"Infraquinta, E.M.",1682039,25
-503251178,"Colégio Dr. Luís Pereira da Costa, SA",1676161,7
-506659968,Município do Crato,1675353,56
-512017050,Universidade dos Açores,1674652,96
-600087689,Serviços Municipalizados de Águas e Saneamento do Município de Paredes,1674003,26
-502843918,Centro Social da Paróquia de Polvoreira,1664630,3
-506899250,Município de Vila Nova da Barquinha,1663024,43
-500463964,"Faz Cultura - Empresa Municipal de Cultura de Braga, EM",1661533,111
-511239980,Município de Santana,1658368,42
-508820111,Escola Superior Náutica Infante D. Henrique,1650228,32
+510832873,Freguesia de Areeiro,1713624,103
+508820111,Escola Superior Náutica Infante D. Henrique,1689463,34
+502701676,Escola Superiror,1681698,38
+600076610,Direção-Geral de Energia e Geologia,1680303,28
+518639584,Agência para o Clima,1677488,128
+508415110,Freguesia do Lumiar,1676111,88
+517950634,CTE - Centro de Formação para a Transição Energética,1675195,22
+511146507,"Ponta Oeste Sociedade Promoção e Desenvolvimento da Zona Oeste da Madeira, S.A.",1665498,11
+510856861,Freguesia de Avenidas Novas,1661562,116
+504041193,"Infralobo - Empresa de Infra-Estruturas de Vale do Lobo, EM",1659858,59
+506632946,Município de Manteigas,1657485,46
+506651541,Município de Penedono,1653197,56
+500850208,Santa Casa da Misericórdia da Póvoa de Varzim,1651197,21
+506836860,"Naturtejo Empresa de Turismo, EIM",1649963,50
 504577484,APEPO - Associação Para o Ensino Profissional do Oeste,1645425,11
-510833454,Freguesia da Penha de França,1634028,89
-506151174,Município de Viana do Alentejo,1626593,68
-501227490,Município de Ferreira do Alentejo,1619896,55
-502826126,Área Metropolitana de Lisboa,1619481,27
-511235461,Município de Ponta do Sol,1612055,47
-506196445,Município de Portel,1611448,84
+505410850,Município de Sobral de Monte Agraço,1637966,55
+501122915,Associação para o Bem Estar Infantil da Freguesia de Vila Franca de Xira,1635423,4
+600032205,Secretaria-Geral do Ministério da Defesa Nacional,1632099,40
+504706322,Entidade Reguladora dos Serviços de Águas e Resíduos,1631917,27
+600083691,Sistema de Segurança Interna,1631858,31
+504152980,Instituto Politécnico de Castelo Branco,1629470,45
+502826126,Área Metropolitana de Lisboa,1619480,27
+503716391,CICCOPN - Centro de Formação Profissional da Indústria da Construção Civil e Obras Públicas,1616965,102
+680041982,Universidade da Madeira,1607102,43
 600075648,Agrupamento de Escolas de Moimenta da Beira,1605578,23
-503716391,CICCOPN - Centro de Formação Profissional da Indústria da Construção Civil e Obras Públicas,1604465,100
-600083691,Sistema de Segurança Interna,1601462,27
-501501428,Irmandade de Santa Casa da Misericórdia de S. Miguel de Refojos,1600378,5
-502701676,Escola Superiror,1596356,34
-600032205,Secretaria-Geral do Ministério da Defesa Nacional,1594649,39
-504300156,Ciência Viva - Agência Nacional Para A Cultura Científica e Tecnológica,1590945,32
-504152980,Instituto Politécnico de Castelo Branco,1577747,44
-501403256,Santa Casa da Misericórdia de Fafe,1575786,6
-504602233,"Escola Profissional de Vila do Conde, Unipessoal L.da",1570138,11
-600083349,Autoridade para as Condições do Trabalho,1569064,35
-510832806,Freguesia de Alvalade (Lisboa),1566437,45
+501175229,Município de Campo Maior,1582808,78
+500839166,Ordem Dos Engenheiros,1574544,36
+504602233,"Escola Profissional de Vila do Conde, Unipessoal L.da",1573973,12
 504321757,Fundação Beatriz Santos,1563815,8
-501133097,MUNICÍPIO DE ALPIARÇA,1560418,43
-600085210,"Agrupamento de Escolas Soares Basto, Oliveira de Azeméis",1553910,14
+502532009,Assoc. Beneficiários Lezíria Grande Vila Franca Xira,1555917,23
 600073130,"Agrupamento de Escolas Augusto Cabrita, Barreiro",1549359,4
-510856861,Freguesia de Avenidas Novas,1546135,105
-518522458,"Transportes Metropolitanos do Porto, E.M.T., S.A",1542779,17
-501679529,"COFAC - Cooperativa de Formação e Animação Cultural, CRL",1527045,28
-517950634,CTE - Centro de Formação para a Transição Energética,1524134,18
-501206639,Município de Mourão,1520109,61
-600087557,Centro de Planeamento e de Avaliação de Políticas Públicas,1517381,13
-518639584,Agência para o Clima,1512955,110
-500867640,Santa Casa da Misericordia do Fundão,1509568,22
-504739506,"Instituto dos Mercados Públicos, do Imobiliário e da Construção, IP",1503551,17
-506647498,Município de Alfândega da Fé,1502519,61
-500839166,Ordem Dos Engenheiros,1494548,28
+600018709,Direção-Geral do Tribunal de Contas,1542701,43
+507021266,Entidade Reguladora da Saúde,1537797,26
+600087557,Centro de Planeamento e de Avaliação de Políticas Públicas,1536380,14
+503935107,"Lusa - Agência de Notícias de Portugal, SA",1529365,31
+501679529,"COFAC - Cooperativa de Formação e Animação Cultural, CRL",1527044,28
+502823305,Área Metropolitana do Porto,1516057,41
+503681490,Entidade Reguladora dos Serviços Energéticos,1502559,17
+500239886,Santa Casa da Misericórdia de Barcelos,1500135,8
 501289623,Santa Casa da Misericórdia de Arouca,1490995,2
-600018709,Direção-Geral do Tribunal de Contas,1480261,37
-501621288,Faculdade de Motricidade Humana,1474226,30
-505371600,Município de Vila Nova de Poiares,1473942,41
-510856918,Freguesia de Estrela,1471102,87
-506064433,"Gaiurb - Urbanismo e Habitação, EM",1467978,34
-600087581,Laboratório Nacional do Medicamento,1460746,220
-502225610,Instituto Português da Qualidade,1455967,23
-516557637,4LIFELAB - LABORATÓRIO COLABORATIVO (ASSOCIAÇÃO),1453451,106
-503681490,Entidade Reguladora dos Serviços Energéticos,1450565,14
-501181768,Freguesia de Quarteira,1450022,72
-502532009,Assoc. Beneficiários Lezíria Grande Vila Franca Xira,1449785,19
-671000454,Escola Secundária de Francisco Franco,1448100,13
+506064433,"Gaiurb - Urbanismo e Habitação, EM",1480168,35
+506084361,"Entidade Nacional para o Setor Energético, EPE",1471358,25
+506772527,Município de Alandroal,1470893,70
+510835791,União das Freguesias de Cascais e Estoril,1468179,96
+510170811,Unidade de Saúde da Ilha Terceira,1456749,32
+671000454,Escola Secundária de Francisco Franco,1448099,13
+508889910,Comunidade Intermunicipal do Tâmega e Sousa,1446407,41
+507305213,"EDITUS - Formação Profissional, L.da",1445000,32
 503017728,"Orsifor - Centro Formação Profissiona da Moita, SA",1441016,9
 600087077,Direção Regional das Obras Públicas,1437847,8
-510170811,UNIDADE DE SAÚDE DA ILHA TERCEIRA,1436766,31
-509020690,Comunidade Intermunicipal do Alto Alentejo,1434709,45
-508415110,Freguesia do Lumiar,1431510,86
-506651541,Município de Penedono,1430979,49
-501175229,Município de Campo Maior,1430884,74
+600082458,"Gabinete de Planeamento, Políticas e Administração Geral",1437396,33
+517699044,"Comissão de Coordenação e Desenvolvimento Regional do Alentejo, IP",1433219,37
+506882799,Freguesia de Algueirão-Mem Martins,1433091,32
+504289616,"Instituto do Cinema e do Audiovisual, IP",1431665,28
+517638827,CCDR ALGARVE,1425945,41
 504600109,"Sicó Formação - Sociedade de Ensino Profissional, SA",1423642,16
+500746656,IRMANDADE DA SANTA CASA DA MISERICÓRDIA DE RIBA D'AVE,1420647,6
+501057510,Santa Casa da Misericórdia de Vila Franca de Xira,1418472,16
 600020860,"Escola Secundária Marquês de Pombal, Lisboa",1416489,1
-506084361,"Entidade Nacional para o Setor Energético, EPE",1416408,22
-506882799,Freguesia de Algueirão-Mem Martins,1415091,31
-504289616,"Instituto do Cinema e do Audiovisual, IP",1412416,27
-501122915,Associação para o Bem Estar Infantil da Freguesia de Vila Franca de Xira,1409900,2
-508889910,Comunidade Intermunicipal do Tâmega e Sousa,1403408,39
-504041193,"Infralobo - Empresa de Infra-Estruturas de Vale do Lobo, EM",1399121,56
-510928897,"Instituto da Segurança Social dos Açores, IPRA",1397643,29
-501295097,União das Misericórdias Portuguesas,1394452,9
-506609553,MUNICÍPIO DE MONTEMOR-O-NOVO,1393682,61
-510835791,União das Freguesias de Cascais e Estoril,1392353,94
-506632946,MUNICÍPIO DE MANTEIGAS,1388843,39
-507021266,Entidade Reguladora da Saúde,1373530,21
-512076278,Associação Visit Azores,1370898,17
-600076610,Direção-Geral de Energia e Geologia,1353991,25
+510928897,"Instituto da Segurança Social dos Açores, IPRA",1408538,30
+500846693,Santa Casa da Misericórdia de São João da Madeira,1395522,27
+512096481,"Musami - Operações Municipais do Ambiente, EIM",1390774,31
+512076278,Associação Visit Azores,1370897,17
+505493870,"Loulé Concelho Global, EM, Unipessoal, SA",1370479,33
+502857145,Fundação Centro Cultural de Belém,1366497,48
+510833896,União das Freguesias de Agualva e Mira-Sintra,1363613,33
+680021892,SMAS VFX,1362304,35
 501775501,ANJE - Associação Nacional de Jovens Empresários,1353386,14
-506772527,Município de Alandroal,1350566,62
-501866213,Associação de Socorros da Freguesia da Encarnação,1348911,14
-504943782,PIEP Associação Pólo de Inovação em Engenharia de Polímeros,1346914,37
-508326567,"Águas de São João, EM, SA",1342183,12
-505493870,"Loulé Concelho Global, EM, Unipessoal, SA",1337393,29
+501866213,Associação de Socorros da Freguesia da Encarnação,1348910,14
+504943782,PIEP Associação Pólo de Inovação em Engenharia de Polímeros,1346913,37
 513753362,Laboratório da Paisagem de Guimarães - Associação para a Promoção do Desenvolvimento Sustentável,1337067,45
-507207416,"Colégio Rainha D. Leonor, SA",1335860,6
-509906478,"Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confecção e Lanifícios (Modatex)",1327074,60
-502112255,Instituto de Biologia Experimental e Tecnológica - IBET,1325509,15
-500846693,Santa Casa da Misericórdia de São João da Madeira,1325480,24
-501114599,Centro Social Paroquial de Alfena,1323792,4
-510833896,União das Freguesias de Agualva e Mira-Sintra,1321994,29
-517699044,"Comissão de Coordenação e Desenvolvimento Regional do Alentejo, IP",1312770,32
+600087018,Secretaria Regional do Ambiente e Ação Climática,1335886,34
+509761534,CIMBAL - Comunidade Intermunicipal do Baixo Alentejo,1332882,64
+507566343,"Óbidos Criativa, EM",1332537,158
+509906478,"Centro de Formação Profissional da Indústria Têxtil, Vestuário, Confecção e Lanifícios (MODATEX)",1332294,62
+509364390,Comunidade Intermunicipal do Alentejo Central,1330704,34
+501618392,ADENE - Agência para a Energia,1328136,122
+502112255,Instituto de Biologia Experimental e Tecnológica - IBET,1325508,15
+501114599,Centro Social Paroquial de Alfena,1323791,4
+501288120,Município de Alvito,1312573,42
 510837913,União das Freguesias de Merelim (São Pedro) e Frossos,1310121,4
-505246473,"STCP SERVIÇOS - TRANSPORTES URBANOS, CONSULTORIA E PARTICIPAÇÕES, UNIPESSOAL, LDA",1306805,12
-509364390,Comunidade Intermunicipal do Alentejo Central,1305985,32
-500032157,Associação de Beneficiários do Vale do Sado,1300065,1
+501129103,Município de Mora,1305083,31
+500032157,Associação de Beneficiários do Vale do Sado,1300064,1
+512100640,Unidade de Saúde da Ilha de São Jorge,1297295,14
 600020118,"Escola Secundária Gago Coutinho, Alverca do Ribatejo - Vila Franca de Xira",1296420,46
-505410850,Município de Sobral de Monte Agraço,1287894,41
-600074609,"Agrupamento de Escolas da Caparica, Almada",1283173,12
-503935107,"Lusa - Agência de Notícias de Portugal, SA",1275440,25
+506865517,Município de Gavião,1287129,67
+502790610,Instituto Pedro Nunes,1283020,35
+507001460,Freguesia de Olivais,1280755,67
+500848645,Santa Casa da Misericórdia de Braga,1273541,6
+510832946,Freguesia de Belém,1271993,36
+507881265,"Lorsenior - Actividades Sociais, Lda.",1271033,6
+507611977,ADC - Águas da Covilhã,1270617,29
 511027303,Associação de Municípios da Região Autónoma da Madeira,1266272,8
-680041982,Universidade da Madeira,1261033,36
-517638827,CCDR ALGARVE,1260245,32
-512070946,Município da Madalena,1247824,34
-512100640,Unidade de Saúde de Ilha de São Jorge,1246769,13
-501129103,Município de Mora,1245584,30
-503888729,"Fundação Cultursintra, FP",1243587,41
+512070946,Município da Madalena,1264689,35
+512043701,Município de Vila Franca do Campo,1260708,41
+500984492,Ordem dos Médicos,1257706,58
+502104511,CPJ - Centro Protocolar da Justiça,1257354,33
+503888729,"Fundação Cultursintra, FP",1243586,41
 600066037,Agrupamento de Escolas de Valdevez,1241992,15
-680038671,Instituto Politécnico de Beja,1241724,30
-502104511,CPJ - Centro Protocolar da Justiça,1240804,31
-501685596,JOBRA - Associação de Jovens da Branca,1237178,6
-512043701,Município de Vila Franca do Campo,1235537,39
-502823305,Área Metropolitana do Porto,1232959,34
-506836860,"Naturtejo Empresa de Turismo, EIM",1227093,42
-506796035,Município de Castelo de Vide,1222799,33
-507733061,Saurium Florestal - Associação Pra Floresta do Concelho de Soure,1217933,1
-501162941,MUNICÍPIO DE FRONTEIRA,1216108,31
+600085880,Direção Regional do Ambiente e Ação Climática,1241947,22
+501685596,JOBRA - Associação de Jovens da Branca,1237177,6
+517622610,"Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, IP",1236211,49
+516557637,4LifeLAB - Laboratório Colaborativo (Associação),1232137,15
+506796035,Município de Castelo de Vide,1228798,34
+502225610,Instituto Português da Qualidade,1225855,24
+506557057,Autoridade da Concorrência,1225084,35
+600085775,Agrupamento de Escolas n.º 1 de Marco de Canaveses,1224425,13
+507733061,Saurium Florestal - Associação Pra Floresta do Concelho de Soure,1217932,1
 503867225,Centro de Bem Estar Social de Brasfemes - CEBES,1215546,2
-518262804,"Teatro José Lúcio da Silva, EM, SA",1214175,52
-512084726,Unidade de Saúde da Ilha do Pico,1211070,8
-506431274,AguiarFloresta_Associação Florestal e Ambiental de Vila Pouca de Aguiar,1208114,14
+518262804,"Teatro José Lúcio da Silva, EM, SA",1214174,52
+512084726,Unidade de Saúde da Ilha do Pico,1211069,8
+503657190,Escola Nacional Bombeiros,1210887,33
+507011937,Município de Pedrógão Grande,1209876,53
+506431274,AguiarFloresta_Associação Florestal e Ambiental de Vila Pouca de Aguiar,1208113,14
 500820511,Seminário Concilar de Braga,1207765,2
-506865517,Município de Gavião,1205030,60
-510832946,Freguesia de Belém,1204194,30
-500984492,ORDEM DOS MÉDICOS,1202453,53
-501057510,Santa casa da Misericórdia de Vila Franca de Xira,1201690,11
+501758089,"Instituto D. João V, Lda",1207521,8
+510833349,Freguesia da Misericórdia,1199511,33
+504547593,"INESC ID - Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento em Lisboa",1199470,11
 503811866,"VALORLIS - Valorização e Tratamento de Resíduos Sólidos, SA",1198941,5
-504707175,"EPCE - Escola Profissional de Comercio Externo, Unipessoal, Lda",1197192,15
-506557057,Autoridade da Concorrência,1196936,33
-509761534,CIMBAL - Comunidade Intermunicipal do Baixo Alentejo,1192085,61
-600085775,Agrupamento de Escolas n.º 1 de Marco de Canaveses,1188815,11
-510832873,Freguesia de Areeiro,1185527,75
-502857145,Fundação Centro Cultural de Belém,1184316,43
-506197760,Centro de Ciências do Mar do Algarve,1181467,4
+504707175,"EPCE - Escola Profissional de Comercio Externo, Unipessoal, Lda",1197191,15
+501072080,"Centro de Educação Especial Rainha D. Leonor, CRL",1196830,17
+600018466,Conselho Superior da Magistratura,1181749,24
 500876096,"Associação Empresarial de Fafe, Cabeceiras de Basto e Celorico de Basto",1180538,6
-600016790,Escola Secundária de São Lourenço,1178290,2
-680017550,Serviços Municipalizados de Água e Saneamento Câmara Municipal Leiria,1177495,25
-517622610,"Comissão de Coordenação e Desenvolvimento Regional de Lisboa e Vale do Tejo, IP",1177233,43
-600018466,Conselho Superior da Magistratura,1174700,23
+600016790,Escola Secundária de São Lourenço,1178289,2
+600074609,"Agrupamento de Escolas da Caparica, Almada",1171125,10
+500965099,Ordem dos Advogados,1170891,34
 600076776,Agrupamento de Escolas de Sátão,1169609,29
 600085872,Direção Regional da Agricultura,1167764,26
-515620491,"ABMG - Águas do Baixo Mondego e Gândara, EIM, SA",1159991,40
-514313420,CEFPI - Centro de Educação e Formação Profissional Integrada,1159684,34
-680021892,SMAS VFX,1158962,32
-503157562,"MARL - Mercado Abastecedor da Região de Lisboa, SA",1154356,13
-507611977,ADC - Águas da Covilhã,1150896,24
-600085708,"Agrupamento de Escolas Poeta António Aleixo, Portimão",1147189,22
-505296950,"AdP Valor - Serviços Ambientais, SA",1144568,25
-507011937,Município de Pedrogão Grande,1143617,49
-503657190,Escola Nacional Bombeiros,1141950,22
-501072080,"Centro de Educação Especial Rainha D. Leonor, CRL",1140649,16
-600018954,Provedoria de Justiça,1132581,22
-506563774,Município da Golegã,1131420,40
-504646680,APPACDM de Anadia-Associação Portuguesa de Pais e Amigos do Cidadão Deficiente Mental,1124939,11
-501540709,Instituto Superior de Engenharia do Porto,1123470,92
-509082629,"INSTICOOP - Instituto Internacional Cooperativo de Formação Profissional, CRL",1115416,3
-504603205,Fundação Escola Profissional de Leiria,1113765,19
-600085880,Direção Regional do Ambiente e Ação Climática,1112032,21
-501263870,Irmandade da Santa Casa da Misericórdia de Resende,1109938,1
-507566343,"Óbidos Criativa, EM",1106483,131
+680017550,Serviços Municipalizados de Água e Saneamento Câmara Municipal Leiria,1167113,25
+504650939,Centro Social de Santa Maria de Sardoura,1166131,175
+515620491,"ABMG - Águas do Baixo Mondego e Gândara, EIM, SA",1159990,40
+503828360,Instituto de Biologia Molecular e Celular - IBMC,1153333,6
+600018954,Provedoria de Justiça,1149080,23
+501540709,Instituto Superior de Engenharia do Porto,1147832,94
+600085708,"Agrupamento de Escolas Poeta António Aleixo, Portimão",1147188,22
+505296950,"AdP Valor - Serviços Ambientais, SA",1145043,28
+512021333,Associação de Municípios da Região Autónoma dos Açores,1135316,1
+500848963,Santa Casa da Misericordia de Leiria,1134037,4
+506803228,ATEC - Associação de Formação Para a Indústria,1132543,27
+506563774,Município da Golegã,1131419,40
+600084167,Agrupamento de Escolas José Belchior Viegas,1130923,14
+504769642,"Ensiprof - Ensino e Formação Profissional, Lda",1130499,71
+500843082,Santa Casa da Misericórdia de Amarante,1130122,7
+504646680,APPACDM de Anadia-Associação Portuguesa de Pais e Amigos do Cidadão Deficiente Mental,1124938,11
+513966927,Associação de Municípios Parque das Serras do Porto,1121050,15
+504603205,Fundação Escola Profissional de Leiria,1119154,20
+509082629,"INSTICOOP - Instituto Internacional Cooperativo de Formação Profissional, CRL",1115415,3
+680038671,Instituto Politécnico de Beja,1114504,30
+680014942,Serviços Municipalizados de Alcobaça,1113524,19
+500848750,Santa Casa da Misericórdia Vila Verde,1110724,9
+501263870,Irmandade da Santa Casa da Misericórdia de Resende,1109937,1
+500746125,Santa Casa da Misericórdia do Barreiro,1109089,4
+510838332,"União das Freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1108120,33
 502424451,Fundação de Ensino e Desenvolvimento de Paços de Brandão,1103080,3
-511060408,"Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação",1102673,13
-512063770,MUNICÍPIO - VILA DO PORTO,1101901,32
+511060408,"Agência Regional para o Desenvolvimento da Investigação, Tecnologia e Inovação - Associação",1102672,13
+512063770,MUNICÍPIO - VILA DO PORTO,1101900,32
 600086119,ae,1099175,2
+512013322,"Lotaçor - Serviço de Lotas dos Açores, SA",1099163,20
 500239894,Santa Casa da Misericórdia do Porto,1096477,4
-600082997,"Agrupamento de Escolas de Santo António, Barreiro",1095611,6
+600082997,"Agrupamento de Escolas de Santo António, Barreiro",1095610,6
+504739506,"Instituto dos Mercados Públicos, do Imobiliário e da Construção, IP",1095261,15
 600085252,"Agrupamento de Escolas Monte da Lua, Sintra",1095109,12
-501957910,Centro de Formação Profissional da Indústria de Fundição,1094019,11
-510838332,"União das Freguesias de Oeiras e São Julião da Barra, Paço de Arcos e Caxias",1093186,32
-502790610,Instituto Pedro Nunes,1093107,28
-504654373,Associação para o Ensino Profissional em Transportes e Logística,1092172,15
+501957910,Centro de Formação Profissional da Indústria de Fundição,1094018,11
+504654373,Associação para o Ensino Profissional em Transportes e Logística,1092171,15
+501174192,Freguesia de Almancil,1092131,27
 516383280,"AF - Águas de Fafe, EM",1090847,12
-512013322,"Lotaçor - Serviço de Lotas dos Açores, SA",1078265,19
+672001926,Serviços de Ação Social da Universidade dos Açores,1090789,7
+600019152,Instituto Superior de Ciências Sociais e Políticas,1083074,22
+501122486,Município de Aljustrel,1080491,34
+504236679,"D. Sancho - Ensino, Lda",1076124,14
+506810496,Freguesia de Campolide,1074817,63
 502465905,"Convergência - Formadores Associados, Lda",1073459,7
-506810496,Freguesia de Campolide,1070018,62
-600084167,Agrupamento de Escolas José Belchior Viegas,1063596,12
-510835660,União das Freguesias de Carnaxide e Queijas,1062723,43
+502657456,Faculdade de Letras,1073366,49
+510856888,Freguesia de Campo de Ourique,1070635,77
+510835660,União das Freguesias de Carnaxide e Queijas,1062722,43
+508326567,"Águas de São João, EM, SA",1062442,12
 506436535,Associação Turismo do Algarve,1060809,19
-504547593,"INESC ID - Instituto de Engenharia de Sistemas e Computadores, Investigação e Desenvolvimento em Lisboa",1060125,9
-501288120,Município de Alvito,1057210,37
 504232290,Fundação A Lord,1056250,1
-506190412,"Externato Dom Fuas Roupinho, Lda",1052368,7
-600079414,Agrupamento de Escolas Amadora Oeste,1051968,3
-501758089,"Instituto D. João V, Lda",1050993,7
+506190412,"Externato Dom Fuas Roupinho, Lda",1052367,7
+600079414,Agrupamento de Escolas Amadora Oeste,1051967,3
 504491270,"EPAMG - Sociedade de Ensino Profissional, Lda",1048687,4
-501618392,ADENE - Agência para a Energia,1047824,119
-600087018,Secretaria Regional do Ambiente e Ação Climática,1047763,30
-507305213,"EDITUS - Formação Profissional, Lda.",1045000,24
-503024260,"ANI - Agência Nacional de Inovação, SA",1043970,13
-512096481,"Musami - Operações Municipais do Ambiente, EIM",1040307,25
-510856888,Freguesia de Campo de Ourique,1034845,72
+507391888,Fábrica da Igreja Paroquial da Freguesia de São João da Foz do Douro,1048412,2
+505072947,"Loures Parque - Empresa Municipal de Estacionamento, EM, Unipessoal, Lda",1045813,23
+503024260,"ANI - Agência Nacional de Inovação, SA",1043969,13
+501229574,Santa Casa da Misericórdia de Anadia,1041971,4
+600086305,TEATRO MUNICIPAL DE FARO-SM,1041799,68
+508590582,Centro de Formação Profissional das Pescas e do Mar,1041518,38
+502840579,Ordem dos Médicos Dentistas,1039511,27
 507533208,Centro Social do Vale do Homem,1031182,8
 501914625,Associação Para o Estudo e Integração Psicossocial,1024984,3
-512099405,"IROA, S. A.",1019978,20
-600082458,"Gabinete de Planeamento, Políticas e Administração Geral",1019750,29
-500843082,Santa Casa da Misericórdia de Amarante,1010188,5
-507391888,Fábrica da Igreja Paroquial da Freguesia de São João da Foz do Douro,1009152,1
-680017399,Serviços Municipalizados da Nazaré,1006834,25
-500077568,ctt,1004461,1
-504706322,Entidade Reguladora dos Serviços de Águas e Resíduos,1000314,23
+680017399,Serviços Municipalizados da Nazaré,1024084,26
+500802025,Ordem dos Arquitectos,1014058,30
+512069760,Município de Santa Cruz da Graciosa,1010157,30
+510839533,"União das Freguesias de Santa Iria de Azóia, São João da Talha e Bobadela",1004902,40
+500077568,ctt,1004460,1
